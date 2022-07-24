@@ -1,0 +1,5471 @@
+{
+    "GRANDINQUISITOR": {
+        "nameKey": "Grand Inquisitor",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "The calculating and relentless master of the Inquisitorius who specializes in dealing with Jedi",
+        "baseId": "GRANDINQUISITOR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "any_obtainable",
+            "selftag_grandinquisitor",
+            "territory_dark_platoon",
+            "affiliation_empire",
+            "profession_inquisitorius",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "conq_hokey_religion"
+        ]
+    },
+    "EMPERORSSHUTTLE": {
+        "nameKey": "Emperor's Shuttle",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Versatile Support that boosts Empire and Sith survivability while debuffing enemies",
+        "baseId": "EMPERORSSHUTTLE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "affiliation_empire",
+            "profession_sith",
+            "selftag_emperorsshuttle",
+            "any_obtainable",
+            "gac_wantthemalive"
+        ]
+    },
+    "BADBATCHECHO": {
+        "nameKey": "Echo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Loyal Clone Trooper who supports his allies in battle",
+        "baseId": "BADBATCHECHO",
+        "categoryIdList": [
+            "selftag_badbatchecho",
+            "alignment_light",
+            "role_support",
+            "affiliation_badbatch",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_riskymission"
+        ]
+    },
+    "QUIGONJINN": {
+        "nameKey": "Qui-Gon Jinn",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile attacker focused on generating extra attacks.",
+        "baseId": "QUIGONJINN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "longitudinally_implemented",
+            "selftag_quigonjinn",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "gac_succession",
+            "gac_handlethis",
+            "gac_dontlookback",
+            "conq_hokey_religion"
+        ]
+    },
+    "ROSETICO": {
+        "nameKey": "Rose Tico",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A brave Resistance Attacker who can Stun and grant allies buffs.",
+        "baseId": "ROSETICO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_resistance",
+            "selftag_rosetico",
+            "any_obtainable",
+            "territory_light_platoon"
+        ]
+    },
+    "LOBOT": {
+        "nameKey": "Lobot",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Support that can reliably inflict Defense Down, clear allied debuffs, and speed up allied Droids",
+        "baseId": "LOBOT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "species_human",
+            "selftag_lobot",
+            "any_obtainable",
+            "gac_hadnochoice",
+            "gac_landolobot",
+            "gac_alltooeasy"
+        ]
+    },
+    "AMILYNHOLDO": {
+        "nameKey": "Amilyn Holdo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Seasoned Resistance Tank with powerful ally support and enemy debuffs",
+        "baseId": "AMILYNHOLDO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "affiliation_resistance",
+            "selftag_amilynholdo",
+            "any_obtainable",
+            "territory_light_platoon",
+            "character_fleetcommander"
+        ]
+    },
+    "CAPITALNEGOTIATOR": {
+        "nameKey": "Negotiator",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Offensive Jedi Capital Ship that uses Valor to bolster ally attacks and increase its Speed",
+        "baseId": "CAPITALNEGOTIATOR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_capital",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_capitalnegotiator",
+            "any_obtainable",
+            "shipclass_capitalship"
+        ]
+    },
+    "EWOKELDER": {
+        "nameKey": "Ewok Elder",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Ewok Healer that specializes in Revives",
+        "baseId": "EWOKELDER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "territory_light_platoon",
+            "species_ewok",
+            "selftag_ewokelder",
+            "any_obtainable"
+        ]
+    },
+    "PLOKOON": {
+        "nameKey": "Plo Koon",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Jedi Tank with Clone synergy, reliable enemy Dispel and anti-Stealth",
+        "baseId": "PLOKOON",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_plokoon",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "conq_hokey_religion"
+        ]
+    },
+    "GEONOSIANSTARFIGHTER1": {
+        "nameKey": "Sun Fac's Geonosian Starfighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Punishing Separatist Tank that automatically Taunts against buffed enemies",
+        "baseId": "GEONOSIANSTARFIGHTER1",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "territory_ship_platoon",
+            "selftag_geonosianstarfighter1",
+            "affiliation_separatist",
+            "species_geonosian",
+            "any_obtainable"
+        ]
+    },
+    "ARCTROOPER501ST": {
+        "nameKey": "ARC Trooper",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Powerful Clone Attacker that can command a Blaster Turret on the battlefield",
+        "baseId": "ARCTROOPER501ST",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_501st",
+            "affiliation_501st_visible",
+            "affiliation_501st_clone",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "any_obtainable",
+            "territory_light_platoon",
+            "selftag_arctrooper501st",
+            "territory_geonosis_republic",
+            "affiliation_order66",
+            "SOE_summoner",
+            "gac_experience",
+            "gac_herooftherepublic"
+        ]
+    },
+    "GEONOSIANSTARFIGHTER2": {
+        "nameKey": "Geonosian Soldier's Starfighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Separatist Attacker that can Assist allies automatically",
+        "baseId": "GEONOSIANSTARFIGHTER2",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_separatist",
+            "species_geonosian",
+            "selftag_geonosianstarfighter2",
+            "any_obtainable"
+        ]
+    },
+    "GEONOSIANSPY": {
+        "nameKey": "Geonosian Spy",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Stealthy Geonosian Attacker who Exposes enemies and has high damage potential",
+        "baseId": "GEONOSIANSPY",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_geonosian",
+            "affiliation_separatist",
+            "selftag_geonosianspy",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "longitudinally_implemented"
+        ]
+    },
+    "OUTRIDER": {
+        "nameKey": "Outrider",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "A daring Rebel Support that increases the Download of allied ships",
+        "baseId": "OUTRIDER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "shipclass_cargoship",
+            "affiliation_rebels",
+            "profession_scoundrel",
+            "profession_smuggler",
+            "any_obtainable",
+            "selftag_outrider"
+        ]
+    },
+    "GEONOSIANSTARFIGHTER3": {
+        "nameKey": "Geonosian Spy's Starfighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Elusive Separatist Attacker that uses Stealth for both offense and defense",
+        "baseId": "GEONOSIANSTARFIGHTER3",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "territory_ship_platoon",
+            "selftag_geonosianstarfighter3",
+            "affiliation_separatist",
+            "species_geonosian",
+            "any_obtainable"
+        ]
+    },
+    "FIRSTORDERTIEPILOT": {
+        "nameKey": "First Order TIE Pilot",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "First Order attacker that can deal extreme damage in a single turn with Advantage",
+        "baseId": "FIRSTORDERTIEPILOT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_firstorder",
+            "species_human",
+            "selftag_firstordertiepilot",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_fomilitary",
+            "gac_tiepilot"
+        ]
+    },
+    "BB8": {
+        "nameKey": "BB-8",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Persistent Resistance Droid who empowers allies by circulating Secret Intel",
+        "baseId": "BB8",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "species_droid",
+            "affiliation_resistance",
+            "selftag_bb8",
+            "any_obtainable",
+            "territory_light_platoon",
+            "platoon_legendary_light",
+            "platoon_legendary_restricted",
+            "gac_droidpilot",
+            "gc_light_droid",
+            "gac_loyaldroid"
+        ]
+    },
+    "LOGRAY": {
+        "nameKey": "Logray",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Sage Ewok Support who can Daze enemies and grant Ewok allies many buffs",
+        "baseId": "LOGRAY",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "species_ewok",
+            "selftag_logray",
+            "any_obtainable"
+        ]
+    },
+    "URORRURRR": {
+        "nameKey": "URoRRuR'R'R",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Tusken Support that can Stun frequently and speed up Tuskens for surprise attacks",
+        "baseId": "URORRURRR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "longitudinally_implemented",
+            "species_tusken",
+            "selftag_urorrurrr",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "MISSIONVAO": {
+        "nameKey": "Mission Vao",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Slippery Scoundrel Attacker who blinds her enemies",
+        "baseId": "MISSIONVAO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_oldrepublic",
+            "profession_scoundrel",
+            "selftag_missionvao",
+            "any_obtainable"
+        ]
+    },
+    "XWINGRESISTANCE": {
+        "nameKey": "Resistance X-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Resistance Support that shuts down enemies with Expose, Target Lock, and Daze",
+        "baseId": "XWINGRESISTANCE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_ship_platoon",
+            "affiliation_resistance",
+            "unit_xwing",
+            "selftag_xwingresistance",
+            "any_obtainable",
+            "affiliation_resistancexwings"
+        ]
+    },
+    "LUMINARAUNDULI": {
+        "nameKey": "Luminara Unduli",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile attacker with ability block and powerful party heal.",
+        "baseId": "LUMINARAUNDULI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_luminaraunduli",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "gac_forcefully",
+            "gac_jedigenerals",
+            "conq_hokey_religion"
+        ]
+    },
+    "STARKILLER": {
+        "nameKey": "Starkiller",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "A powerful Dark Side Force User whose inner conflict lifts up other Force Users",
+        "baseId": "STARKILLER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_starkiller",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "territory_dark_platoon"
+        ]
+    },
+    "HOUNDSTOOTH": {
+        "nameKey": "Hound's Tooth",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Sustainable Bounty Hunter Tank that debilitates enemies",
+        "baseId": "HOUNDSTOOTH",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_houndstooth",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "shipclass_cargoship",
+            "gac_wantthemalive"
+        ]
+    },
+    "ARC170CLONESERGEANT": {
+        "nameKey": "Clone Sergeant's ARC-170",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Reliable Clone Tank that both inflicts and exploits Target Lock",
+        "baseId": "ARC170CLONESERGEANT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_ship_platoon",
+            "affiliation_republic",
+            "profession_clonetrooper",
+            "selftag_arc170clonesergeant",
+            "any_obtainable"
+        ]
+    },
+    "SITHPALPATINE": {
+        "nameKey": "Sith Eternal Emperor",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Cunning Emperor of the Sith that eliminates his enemies with the overwhelming power of the dark side",
+        "baseId": "SITHPALPATINE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "galactic_legend",
+            "reduced_massive_damage",
+            "profession_sith",
+            "affiliation_sithlord",
+            "affiliation_palp",
+            "selftag_sithpalpatine",
+            "any_obtainable",
+            "conq_hokey_religion"
+        ]
+    },
+    "WICKET": {
+        "nameKey": "Wicket",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Jittery Ewok Attacker with Critical Hit and Stealth synergies",
+        "baseId": "WICKET",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "species_ewok",
+            "selftag_wicket",
+            "any_obtainable",
+            "territory_light_platoon"
+        ]
+    },
+    "TIEFIGHTERFIRSTORDER": {
+        "nameKey": "First Order TIE Fighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Aggressive First Order Attacker with reliable Target Lock and rapid-fire Special ability",
+        "baseId": "TIEFIGHTERFIRSTORDER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "territory_ship_platoon",
+            "selftag_tiefighterfirstorder",
+            "affiliation_firstorder",
+            "any_obtainable",
+            "affiliation_foties",
+            "gac_tie",
+            "gac_tiefighter"
+        ]
+    },
+    "JEDISTARFIGHTERCONSULAR": {
+        "nameKey": "Jedi Consular's Starfighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Defensive Jedi Support that can rapidly restore ally Protection",
+        "baseId": "JEDISTARFIGHTERCONSULAR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_ship_platoon",
+            "selftag_jedistarfighterconsular",
+            "affiliation_republic",
+            "any_obtainable",
+            "profession_jedi"
+        ]
+    },
+    "CHEWBACCALEGENDARY": {
+        "nameKey": "Chewbacca",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Mighty Rebel Attacker who Guards the weakest ally",
+        "baseId": "CHEWBACCALEGENDARY",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_rebels",
+            "profession_scoundrel",
+            "profession_smuggler",
+            "selftag_chewbaccalegendary",
+            "any_obtainable",
+            "species_wookiee",
+            "affiliation_smuggled",
+            "affiliation_rebfalconcrew",
+            "gac_millenniumco-pilot",
+            "gac_hothvet",
+            "gac_rolochewie",
+            "gac_hadnochoice",
+            "gac_tk421"
+        ]
+    },
+    "AHSOKATANO": {
+        "nameKey": "Ahsoka Tano",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Attacker who constantly assists while healing and dispelling",
+        "baseId": "AHSOKATANO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_501st",
+            "affiliation_501st_visible",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_ahsokatano",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "non_viable_leader",
+            "gac_succession",
+            "gac_experience",
+            "gac_ahsokasjourney",
+            "gac_desperateescape",
+            "gac_diversion",
+            "gac_herooftherepublic",
+            "conq_hokey_religion"
+        ]
+    },
+    "WATTAMBOR": {
+        "nameKey": "Wat Tambor",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Separatist Support who distributes powerful Tech to his allies",
+        "baseId": "WATTAMBOR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "any_obtainable",
+            "affiliation_separatist",
+            "selftag_wattambor",
+            "category_pacifist",
+            "territory_geonosis_separatist",
+            "gac_algorithm"
+        ]
+    },
+    "DARTHNIHILUS": {
+        "nameKey": "Darth Nihilus",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Sith Support that can instantly defeat enemies by draining cooldowns",
+        "baseId": "DARTHNIHILUS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "profession_sith",
+            "selftag_darthnihilus",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "quest_darthnihilus",
+            "affiliation_sithlord",
+            "non_viable_leader",
+            "conq_hokey_religion"
+        ]
+    },
+    "CAPITALMALEVOLENCE": {
+        "nameKey": "Malevolence",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Separatist Capital Ship that powers up both Separatists and Droids and has the means to shut down entire enemy fleets.",
+        "baseId": "CAPITALMALEVOLENCE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_capital",
+            "species_droid",
+            "affiliation_separatist",
+            "selftag_capitalmalevolence",
+            "any_obtainable",
+            "shipclass_capitalship",
+            "exclude_from_tb_mission"
+        ]
+    },
+    "GENERALHUX": {
+        "nameKey": "General Hux",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Ruthless First Order Support that can prevent enemies from counterattacking.",
+        "baseId": "GENERALHUX",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_firstorder",
+            "selftag_generalhux",
+            "any_obtainable",
+            "character_fleetcommander"
+        ]
+    },
+    "SITHFIGHTER": {
+        "nameKey": "Sith Fighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Agile Sith Attacker that bypasses enemy defenses",
+        "baseId": "SITHFIGHTER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "selftag_sithfighter",
+            "any_obtainable",
+            "profession_sith",
+            "territory_ship_platoon",
+            "affiliation_sithempire"
+        ]
+    },
+    "XANADUBLOOD": {
+        "nameKey": "Xanadu Blood",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Debilitating Bounty Hunter Support that shuts down enemy offenses",
+        "baseId": "XANADUBLOOD",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_xanadublood",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "gac_wantthemalive"
+        ]
+    },
+    "CAPITALCHIMAERA": {
+        "nameKey": "Chimaera",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Tactical Empire Capital Ship that shuts down enemy Capital Ships and manipulates the flow of battle",
+        "baseId": "CAPITALCHIMAERA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_capital",
+            "affiliation_empire",
+            "selftag_capitalchimaera",
+            "any_obtainable",
+            "shipclass_capitalship"
+        ]
+    },
+    "DARTHMALAK": {
+        "nameKey": "Darth Malak",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Brutal Sith Tank who terrorizes and drains enemies to stay alive",
+        "baseId": "DARTHMALAK",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "profession_sith",
+            "affiliation_sithempire",
+            "selftag_darthmalak",
+            "any_obtainable",
+            "affiliation_sithlord",
+            "conq_hokey_religion",
+            "conq_sustainedbyrage"
+        ]
+    },
+    "EPIXPOE": {
+        "nameKey": "Resistance Hero Poe",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Attacker who overpowers his enemies with debilitating effects",
+        "baseId": "EPIXPOE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "any_obtainable",
+            "affiliation_resistance",
+            "selftag_epixpoe",
+            "affiliation_resfalconcrew"
+        ]
+    },
+    "BIGGSDARKLIGHTER": {
+        "nameKey": "Biggs Darklighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Support with Critical Hit synergies who calls Assists",
+        "baseId": "BIGGSDARKLIGHTER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "specialmission_corerebels",
+            "selftag_biggsdarklighter",
+            "any_obtainable",
+            "gac_rebelpilot",
+            "gac_wingmate",
+            "gac_trench"
+        ]
+    },
+    "JOLEEBINDO": {
+        "nameKey": "Jolee Bindo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Potent Jedi Healer with high durability and resistance to disruption",
+        "baseId": "JOLEEBINDO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "territory_light_platoon",
+            "profession_jedi",
+            "affiliation_oldrepublic",
+            "selftag_joleebindo",
+            "any_obtainable",
+            "gac_oldrep",
+            "conq_hokey_religion"
+        ]
+    },
+    "CLONESERGEANTPHASEI": {
+        "nameKey": "Clone Sergeant - Phase I",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Clone Attacker with AoE damage and Turn Meter Reduction",
+        "baseId": "CLONESERGEANTPHASEI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "species_human",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "selftag_clonesergeantphase1",
+            "any_obtainable",
+            "affiliation_order66",
+            "gac_servantoftheempire"
+        ]
+    },
+    "TEEBO": {
+        "nameKey": "Teebo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Ewok stealth character with stealth synergies and some control ability.",
+        "baseId": "TEEBO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "species_ewok",
+            "selftag_teebo",
+            "any_obtainable"
+        ]
+    },
+    "CLONEWARSCHEWBACCA": {
+        "nameKey": "Clone Wars Chewbacca",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Durable Tank with both Taunt and self-Healing",
+        "baseId": "CLONEWARSCHEWBACCA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_scoundrel",
+            "selftag_clonewarschewbacca",
+            "any_obtainable",
+            "species_wookiee",
+            "non_viable_leader"
+        ]
+    },
+    "ROYALGUARD": {
+        "nameKey": "Royal Guard",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Empire Tank that punishes enemies for attacking other allies",
+        "baseId": "ROYALGUARD",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_empire",
+            "selftag_royalguard",
+            "longitudinally_implemented",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire"
+        ]
+    },
+    "SITHBOMBER": {
+        "nameKey": "B-28 Extinction-class Bomber",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Sith Tank with a passive Taunt and self-preservation tactics",
+        "baseId": "SITHBOMBER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "selftag_sithbomber",
+            "any_obtainable",
+            "profession_sith",
+            "territory_ship_platoon",
+            "affiliation_sithempire"
+        ]
+    },
+    "LORDVADER": {
+        "nameKey": "Lord Vader",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Legendary Sith Lord who utilizes the actions of others to empower his own potential and is not to be underestimated",
+        "baseId": "LORDVADER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "galactic_legend",
+            "species_human",
+            "affiliation_empire",
+            "profession_sith",
+            "reduced_massive_damage",
+            "any_obtainable",
+            "selftag_lordvader",
+            "gac_thechosenone",
+            "conq_hokey_religion"
+        ]
+    },
+    "JAWASCAVENGER": {
+        "nameKey": "Jawa Scavenger",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Jawa Support who can detonate Thermal Detonators to inflict a large variety of status effects",
+        "baseId": "JAWASCAVENGER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "species_jawa",
+            "selftag_jawascavenger",
+            "any_obtainable"
+        ]
+    },
+    "AURRA_SING": {
+        "nameKey": "Aurra Sing",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Deadly Bounty Hunter that has increased damage while Stealthed",
+        "baseId": "AURRA_SING",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_aurrasing",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "gac_whateverittakes",
+            "gac_revenge",
+            "conq_tombraiders"
+        ]
+    },
+    "TIESILENCER": {
+        "nameKey": "TIE Silencer",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Superior First Order Attacker that gains unlimited speed and deals massive damage",
+        "baseId": "TIESILENCER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_firstorder",
+            "selftag_tiesilencer",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "territory_rare_ship_platoon",
+            "gac_tie"
+        ]
+    },
+    "CADBANE": {
+        "nameKey": "Cad Bane",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Bounty Hunter Support with a powerful Stun and bonuses against Jedi characters",
+        "baseId": "CADBANE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "longitudinally_implemented",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_cadbane",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "non_viable_leader",
+            "gac_thebox",
+            "gac_revenge",
+            "conq_tombraiders"
+        ]
+    },
+    "PHASMA": {
+        "nameKey": "Captain Phasma",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "High-damage First Order support that can grant allies many extra attacks",
+        "baseId": "PHASMA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_firstorder",
+            "species_human",
+            "selftag_phasma",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_fomilitary",
+            "affiliation_foexecutionsquad",
+            "gac_fostormtrooper",
+            "non_viable_leader"
+        ]
+    },
+    "FINN": {
+        "nameKey": "Finn",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resistance tank that keeps the pressure up with a balance between offense and defense",
+        "baseId": "FINN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_resistance",
+            "species_human",
+            "selftag_finn",
+            "any_obtainable",
+            "affiliation_gacs2fireteam",
+            "affiliation_jacket",
+            "affiliation_el16",
+            "gac_millenniumco-pilot",
+            "non_viable_leader"
+        ]
+    },
+    "RESISTANCETROOPER": {
+        "nameKey": "Resistance Trooper",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Opportunistic Resistance attacker that can deal heavy damage to debuffed enemies",
+        "baseId": "RESISTANCETROOPER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_resistance",
+            "species_human",
+            "selftag_resistancetrooper",
+            "any_obtainable",
+            "affiliation_el16"
+        ]
+    },
+    "NUTEGUNRAY": {
+        "nameKey": "Nute Gunray",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Separatist Support who specializes in sabotaging enemy strategies",
+        "baseId": "NUTEGUNRAY",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "profession_scoundrel",
+            "affiliation_separatist",
+            "selftag_nutegunray",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "territory_geonosis_separatist"
+        ]
+    },
+    "TIEREAPER": {
+        "nameKey": "TIE Reaper",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Defensive Empire Support that Dispels, delays cooldowns, and removes Turn Meter from the enemy Capital Ship",
+        "baseId": "TIEREAPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "selftag_tiereaper",
+            "affiliation_empire",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "territory_rare_ship_platoon",
+            "gac_tie",
+            "gac_wantthemalive"
+        ]
+    },
+    "IDENVERSIOEMPIRE": {
+        "nameKey": "Iden Versio",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Tenacious Empire Attacker who expertly takes out foes while supporting her squad",
+        "baseId": "IDENVERSIOEMPIRE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "any_obtainable",
+            "selftag_idenversioempire"
+        ]
+    },
+    "HOTHREBELSCOUT": {
+        "nameKey": "Hoth Rebel Scout",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Single target attacker with crit synergies and speed building abilities.",
+        "baseId": "HOTHREBELSCOUT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "selftag_hothrebelscout",
+            "any_obtainable",
+            "territory_hoth",
+            "territory_light_platoon",
+            "territory_hoth_hero_rebel",
+            "gac_hothvet",
+            "gac_hothsoldscout"
+        ]
+    },
+    "FIRSTORDERTROOPER": {
+        "nameKey": "First Order Stormtrooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "First Order tank that uses Advantage to disrupt enemies",
+        "baseId": "FIRSTORDERTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_firstorder",
+            "species_human",
+            "selftag_firstordertrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_fomilitary",
+            "affiliation_gacs2fireteam",
+            "gac_fostormtrooper"
+        ]
+    },
+    "UWINGSCARIF": {
+        "nameKey": "Bistan's U-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Elusive Rebel Support that boosts ally Turn Meter while using Stealth and Target Lock",
+        "baseId": "UWINGSCARIF",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "selftag_uwingscarif",
+            "affiliation_rebels",
+            "affiliation_rogue_one",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "gac_uwing"
+        ]
+    },
+    "STORMTROOPERHAN": {
+        "nameKey": "Stormtrooper Han",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile tank able to surprise enemies with sudden Turn Meter changes and Offense boosts",
+        "baseId": "STORMTROOPERHAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "species_human",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "profession_scoundrel",
+            "selftag_stormtrooperhan",
+            "any_obtainable",
+            "gac_rebelpilot",
+            "gac_tk421"
+        ]
+    },
+    "HUMANTHUG": {
+        "nameKey": "Mob Enforcer",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Scoundrel Tank with enemy debuff ability and a thermal detonator.",
+        "baseId": "HUMANTHUG",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "selftag_humanthug",
+            "profession_scoundrel",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "YOUNGCHEWBACCA": {
+        "nameKey": "Vandor Chewbacca",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Scoundrel Tank that provides Protection Recovery for his allies when they are attacked",
+        "baseId": "YOUNGCHEWBACCA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "profession_scoundrel",
+            "selftag_youngchewbacca",
+            "any_obtainable",
+            "profession_smuggler",
+            "species_wookiee",
+            "affiliation_prisfalconcrew",
+            "gac_millenniumco-pilot",
+            "gac_workingclosely"
+        ]
+    },
+    "GAUNTLETSTARFIGHTER": {
+        "nameKey": "Gauntlet Starfighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Reliable Empire Support that dispels ally debuffs and prevents enemy buffs",
+        "baseId": "GAUNTLETSTARFIGHTER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "territory_ship_platoon",
+            "affiliation_empire",
+            "selftag_gauntletstarfighter",
+            "any_obtainable",
+            "gac_wantthemalive"
+        ]
+    },
+    "ADMIRALPIETT": {
+        "nameKey": "Admiral Piett",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "An ambitious Imperial Officer who supports his allies while plotting their demise",
+        "baseId": "ADMIRALPIETT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "any_obtainable",
+            "selftag_admiralpiett",
+            "character_fleetcommander"
+        ]
+    },
+    "KUIIL": {
+        "nameKey": "Kuiil",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A supportive mechanic who aids Droids and Scoundrels.",
+        "baseId": "KUIIL",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "profession_scoundrel",
+            "any_obtainable",
+            "selftag_kuiil",
+            "gac_spoken",
+            "gac_daringplan"
+        ]
+    },
+    "ARMORER": {
+        "nameKey": "The Armorer",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A Mandalorian leader and support unit that collects beskar to buff her team and rally them.",
+        "baseId": "ARMORER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "affiliation_mandalorian",
+            "any_obtainable",
+            "selftag_armorer",
+            "gac_theway",
+            "gac_foundlings"
+        ]
+    },
+    "EIGHTHBROTHER": {
+        "nameKey": "Eighth Brother",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "A stealthy member of the Inquisitorious with an arsenal of tricks and weapons to surprise his opponent.",
+        "baseId": "EIGHTHBROTHER",
+        "categoryIdList": [
+            "alignment_dark",
+            "any_obtainable",
+            "role_attacker",
+            "role_leader",
+            "affiliation_empire",
+            "profession_inquisitorius",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "territory_dark_platoon",
+            "selftag_eighthbrother",
+            "conq_hokey_religion"
+        ]
+    },
+    "VULTUREDROID": {
+        "nameKey": "Vulture Droid",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Persistent Separatist Attacker that inflicts Buzz Droids and is replaced when defeated",
+        "baseId": "VULTUREDROID",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "species_droid",
+            "selftag_vulturedroid",
+            "crewless",
+            "any_obtainable"
+        ]
+    },
+    "KIADIMUNDI": {
+        "nameKey": "Ki-Adi-Mundi",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Formidable Jedi Master who shifts between Ataru and Makashi lightsaber forms",
+        "baseId": "KIADIMUNDI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "profession_jedi",
+            "affiliation_republic",
+            "selftag_kiadimundi",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "conq_hokey_religion"
+        ]
+    },
+    "COUNTDOOKU": {
+        "nameKey": "Count Dooku",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Disciplined Separatist Attacker with high damage, counter attacks, and debuff capabilities",
+        "baseId": "COUNTDOOKU",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "affiliation_separatist",
+            "profession_sith",
+            "any_obtainable",
+            "selftag_countdooku",
+            "longitudinally_implemented",
+            "territory_dark_platoon",
+            "territory_geonosis_separatist",
+            "affiliation_sithlord",
+            "affiliation_forcelightning",
+            "gac_mothertcountd",
+            "gac_sepondathomir",
+            "gac_forcedtolivealie",
+            "conq_hokey_religion"
+        ]
+    },
+    "NINTHSISTER": {
+        "nameKey": "Ninth Sister",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "A ruthless member of the feared Inquisitorius who will stop at nothing in her hunt for the Jedi",
+        "baseId": "NINTHSISTER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "any_obtainable",
+            "selftag_ninthsister",
+            "role_leader",
+            "affiliation_empire",
+            "profession_inquisitorius",
+            "ds_unaligned_force_user",
+            "unaligned_force_user",
+            "conq_hokey_religion"
+        ]
+    },
+    "REYJEDITRAINING": {
+        "nameKey": "Rey (Jedi Training)",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resilient Resistance Tank who avenges debuffed allies and controls the battlefield",
+        "baseId": "REYJEDITRAINING",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "affiliation_resistance",
+            "selftag_reyjeditraining",
+            "any_obtainable",
+            "platoon_legendary_light",
+            "platoon_legendary_restricted",
+            "affiliation_reys",
+            "affiliation_resfalconcrew",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "conq_hokey_religion"
+        ]
+    },
+    "CHIEFNEBIT": {
+        "nameKey": "Chief Nebit",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Cunning Jawa Tank with Stealth synergies who can reduce cooldowns",
+        "baseId": "CHIEFNEBIT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "longitudinally_implemented",
+            "species_jawa",
+            "selftag_chiefnebit",
+            "any_obtainable"
+        ]
+    },
+    "HOTHREBELSOLDIER": {
+        "nameKey": "Hoth Rebel Soldier",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Support character that debuffs, taunts, and defensively buffs, with Rebel and anti-Empire synergies.",
+        "baseId": "HOTHREBELSOLDIER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "selftag_hothrebelsoldier",
+            "any_obtainable",
+            "territory_hoth",
+            "territory_light_platoon",
+            "territory_hoth_hero_rebel",
+            "gac_hothvet",
+            "gac_hothsoldscout"
+        ]
+    },
+    "DENGAR": {
+        "nameKey": "Dengar",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Adaptable Scoundrel attacker that Stuns and inflicts Tenacity Down.",
+        "baseId": "DENGAR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_dengar",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "gac_execbh",
+            "non_viable_leader",
+            "gac_revenge"
+        ]
+    },
+    "CC2224": {
+        "nameKey": "CC-2224 \"Cody\"",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Clone Attacker that Stuns and calls tons of Assists",
+        "baseId": "CC2224",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "species_human",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "selftag_cc2224",
+            "any_obtainable",
+            "affiliation_order66",
+            "non_viable_leader",
+            "gac_jangoclone",
+            "gac_servantoftheempire"
+        ]
+    },
+    "EPIXFINN": {
+        "nameKey": "Resistance Hero Finn",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Supportive Attacker whose inspiration empowers his allies on the battlefield",
+        "baseId": "EPIXFINN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "any_obtainable",
+            "affiliation_resistance",
+            "selftag_epixfinn"
+        ]
+    },
+    "BASTILASHANDARK": {
+        "nameKey": "Bastila Shan (Fallen)",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Strong Sith Support who inflicts a large number of debuffs including Shock, Fear, and Corrupted Battle Meditation",
+        "baseId": "BASTILASHANDARK",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "profession_sith",
+            "affiliation_sithempire",
+            "selftag_bastilashandark",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_doubleblade",
+            "conq_hokey_religion",
+            "conq_lureofthedarkside"
+        ]
+    },
+    "FIRSTORDERSPECIALFORCESPILOT": {
+        "nameKey": "First Order SF TIE Pilot",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Subversive First Order Attacker who buffs allies and disrupts enemies",
+        "baseId": "FIRSTORDERSPECIALFORCESPILOT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "selftag_firstorderspecialforcespilot",
+            "affiliation_firstorder",
+            "any_obtainable",
+            "platoon_legendary_restricted",
+            "dark_marquee_unit",
+            "territory_dark_platoon",
+            "affiliation_fomilitary",
+            "gac_tiepilot"
+        ]
+    },
+    "SHORETROOPER": {
+        "nameKey": "Shoretrooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Empire Tank who enters battle with Taunt, heals allies, and grants them Critical Hit Immunity",
+        "baseId": "SHORETROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "selftag_shoretrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "gac_impstormtroopers"
+        ]
+    },
+    "CAPITALJEDICRUISER": {
+        "nameKey": "Endurance",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Defensive Jedi Capital Ship that uses Valor to gain a huge Speed advantage",
+        "baseId": "CAPITALJEDICRUISER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_capital",
+            "affiliation_republic",
+            "selftag_capitaljedicruiser",
+            "any_obtainable",
+            "profession_jedi",
+            "shipclass_capitalship"
+        ]
+    },
+    "DARKTROOPER": {
+        "nameKey": "Dark Trooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "An Imperial Remnant attacker whose abilities are modified by the amount in Dark Trooper Squad",
+        "baseId": "DARKTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_darktrooper",
+            "species_droid",
+            "affiliation_empire",
+            "affiliation_imperialremnant",
+            "affiliation_imperialtrooper",
+            "affiliation_imperialtrooper_droid",
+            "gac_therescue"
+        ]
+    },
+    "GENERALKENOBI": {
+        "nameKey": "General Kenobi",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Vigorous Jedi Tank who gains Foresight, dispels debuffs to grant buffs, and calls buffed allies to Assist",
+        "baseId": "GENERALKENOBI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_generalkenobi",
+            "any_obtainable",
+            "platoon_legendary_light",
+            "territory_light_platoon",
+            "specialmission_legendarylight",
+            "character_fleetcommander",
+            "platoon_legendary_restricted",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "non_viable_leader",
+            "gac_succession",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "gac_thecovenssecrets",
+            "gac_riskymission",
+            "gac_handlethis",
+            "gac_herooftherepublic",
+            "conq_hokey_religion",
+            "conq_hellothere"
+        ]
+    },
+    "MOFFGIDEONS1": {
+        "nameKey": "Moff Gideon",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Empire Leader that can lead a fireteam into battle and punish enemies with the Leader tag",
+        "baseId": "MOFFGIDEONS1",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "any_obtainable",
+            "selftag_moffgideons1",
+            "affiliation_empire",
+            "affiliation_imperialremnant",
+            "affiliation_imperialtrooper",
+            "gac_darksaber",
+            "gac_therescue"
+        ]
+    },
+    "NIGHTSISTERSPIRIT": {
+        "nameKey": "Nightsister Spirit",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Veiled Nightsister Attacker who Dispels, Stuns, and gains Foresight",
+        "baseId": "NIGHTSISTERSPIRIT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_nightsisters",
+            "selftag_nightsisterspirit",
+            "any_obtainable",
+            "dark_marquee_unit",
+            "territory_dark_platoon",
+            "gac_dathomirnative",
+            "gac_nszomspi"
+        ]
+    },
+    "KITFISTO": {
+        "nameKey": "Kit Fisto",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Jedi Attacker with multi-attack, Counter Chance, and a variety of ally buffs",
+        "baseId": "KITFISTO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_kitfisto",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "gac_forcefully",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "conq_hokey_religion"
+        ]
+    },
+    "BADBATCHWRECKER": {
+        "nameKey": "Wrecker",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resilient Clone Trooper who protects his allies and gets empowered when taking damage",
+        "baseId": "BADBATCHWRECKER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "any_obtainable",
+            "selftag_badbatchwrecker",
+            "affiliation_badbatch",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "territory_geonosis_republic",
+            "gac_riskymission"
+        ]
+    },
+    "IG88": {
+        "nameKey": "IG-88",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Droid Attacker with debuffs and a damage bonus against debuffed enemies",
+        "baseId": "IG88",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "species_droid",
+            "selftag_ig88",
+            "profession_scoundrel",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "gac_droidpilot",
+            "gac_execbh",
+            "gac_revenge",
+            "gac_rebuilt"
+        ]
+    },
+    "CAPITALRADDUS": {
+        "nameKey": "Raddus",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Supportive Resistance Capital Ship that will do whatever is necessary to protect the fleet",
+        "baseId": "CAPITALRADDUS",
+        "categoryIdList": [
+            "alignment_light",
+            "role_capital",
+            "affiliation_resistance",
+            "selftag_capitalraddus",
+            "any_obtainable",
+            "shipclass_capitalship"
+        ]
+    },
+    "BADBATCHHUNTER": {
+        "nameKey": "Hunter",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Tactical leader of the Bad Batch who subtly destroys his enemies.",
+        "baseId": "BADBATCHHUNTER",
+        "categoryIdList": [
+            "selftag_badbatchhunter",
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_badbatch",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "species_human",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_riskymission"
+        ]
+    },
+    "ARC170REX": {
+        "nameKey": "Rex's ARC-170",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Defensive Clone Tank that can inflict Target Lock and boost ally Protection and Tenacity",
+        "baseId": "ARC170REX",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "affiliation_republic",
+            "territory_ship_platoon",
+            "any_obtainable",
+            "selftag_arc170rex",
+            "profession_clonetrooper"
+        ]
+    },
+    "50RT": {
+        "nameKey": "50R-T",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A highly intelligent Droid who can quickly calculate the odds and determine how to defy them",
+        "baseId": "50RT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "any_obtainable",
+            "selftag_50rt",
+            "role_leader",
+            "species_droid",
+            "affiliation_oldrepublic"
+        ]
+    },
+    "C3POLEGENDARY": {
+        "nameKey": "C-3PO",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Evasive support character that Confuses foes and strengthens mixed-faction interplay with Translation.",
+        "baseId": "C3POLEGENDARY",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "species_droid",
+            "affiliation_republic",
+            "affiliation_rebels",
+            "affiliation_resistance",
+            "any_obtainable",
+            "platoon_legendary_restricted",
+            "selftag_c3polegendary",
+            "category_pacifist",
+            "profession_translator",
+            "gac_hothvet",
+            "gc_light_droid",
+            "gac_rebuilt",
+            "gac_loyaldroid",
+            "gac_rebeldroid",
+            "gac_r2c3",
+            "gac_dontlookback"
+        ]
+    },
+    "HOTHHAN": {
+        "nameKey": "Captain Han Solo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Daring Rebel Support that risks himself to Revive allies and Daze enemies",
+        "baseId": "HOTHHAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "affiliation_rebels",
+            "profession_scoundrel",
+            "selftag_hothhan",
+            "any_obtainable",
+            "territory_light_platoon",
+            "territory_hoth_hero_rebel",
+            "gac_rebelpilot",
+            "gac_hothvet",
+            "gac_hadnochoice"
+        ]
+    },
+    "BODHIROOK": {
+        "nameKey": "Bodhi Rook",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Clever Rebel Support who spots enemy units for his allies",
+        "baseId": "BODHIROOK",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_bodhirook",
+            "any_obtainable",
+            "gac_rebelpilot"
+        ]
+    },
+    "IG2000": {
+        "nameKey": "IG-2000",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Bounty Hunter Attacker that deals massive damage to Breached enemies",
+        "baseId": "IG2000",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_ig2000",
+            "species_droid",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "gac_wantthemalive"
+        ]
+    },
+    "T3_M4": {
+        "nameKey": "T3-M4",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Droid who supports a Droid team with extra stats and debuffs the enemy team",
+        "baseId": "T3_M4",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "species_droid",
+            "affiliation_oldrepublic",
+            "selftag_t3_m4",
+            "any_obtainable",
+            "territory_light_platoon",
+            "gac_droidpilot",
+            "gc_light_droid",
+            "gac_rebuilt",
+            "gac_loyaldroid",
+            "gac_hkt3"
+        ]
+    },
+    "EMBO": {
+        "nameKey": "Embo",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Deadly Bounty Hunter Attacker that consumes his Protection to boost his damage",
+        "baseId": "EMBO",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_embo",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "non_viable_leader",
+            "gac_thebox",
+            "gac_revenge"
+        ]
+    },
+    "VISASMARR": {
+        "nameKey": "Visas Marr",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Healer with strong anti-Sith synergy",
+        "baseId": "VISASMARR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "territory_light_platoon",
+            "selftag_visasmarr",
+            "any_obtainable",
+            "conq_hokey_religion"
+        ]
+    },
+    "GRANDMASTERLUKE": {
+        "nameKey": "Jedi Master Luke Skywalker",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "The wizened Jedi master of legend who empowers his Jedi allies with the knowledge and skills he has obtained",
+        "baseId": "GRANDMASTERLUKE",
+        "categoryIdList": [
+            "galactic_legend",
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "reduced_massive_damage",
+            "profession_jedi",
+            "selftag_grandmasterluke",
+            "any_obtainable",
+            "conq_hokey_religion"
+        ]
+    },
+    "IMPERIALSUPERCOMMANDO": {
+        "nameKey": "Imperial Super Commando",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "An Empire Attacker with counter mechanics who dispels buffs and applies buff immunity",
+        "baseId": "IMPERIALSUPERCOMMANDO",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_empire",
+            "affiliation_mandalorian",
+            "selftag_imperialsupercommando",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_identity"
+        ]
+    },
+    "BOBAFETT": {
+        "nameKey": "Boba Fett",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Ruthless Bounty Hunter Attacker who ignores Taunts, Ability Blocks and self-revives",
+        "baseId": "BOBAFETT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "longitudinally_implemented",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_bobafett",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "gac_execbh",
+            "gac_bespinocc",
+            "gac_hadnochoice",
+            "non_viable_leader",
+            "gac_whateverittakes",
+            "gac_identity",
+            "gac_revenge",
+            "gac_therescue",
+            "conq_wretched",
+            "conq_trustenemies",
+            "conq_likemyfather",
+            "conq_wantmyarmor"
+        ]
+    },
+    "IMPERIALPROBEDROID": {
+        "nameKey": "Imperial Probe Droid",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Imperial Droid who reveals and tracks enemies with Target Lock",
+        "baseId": "IMPERIALPROBEDROID",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "species_droid",
+            "affiliation_empire",
+            "selftag_imperialprobedroid",
+            "any_obtainable",
+            "territory_hoth_empire",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "quest_imperial_probe_droid",
+            "gac_hothvet",
+            "gac_hothempvet",
+            "gac_impdroid"
+        ]
+    },
+    "YWINGCLONEWARS": {
+        "nameKey": "BTL-B Y-wing Starfighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Galactic Republic Tank that can withstand significant damage and Taunts when its allies are in need",
+        "baseId": "YWINGCLONEWARS",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "any_obtainable",
+            "selftag_ywingclonewars",
+            "affiliation_republic",
+            "crewless"
+        ]
+    },
+    "GLREY": {
+        "nameKey": "Rey",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resistance Leader who safeguards her allies by providing powerful shields and delivering high damage",
+        "baseId": "GLREY",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_resistance",
+            "galactic_legend",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "reduced_massive_damage",
+            "species_human",
+            "any_obtainable",
+            "affiliation_reys",
+            "selftag_glrey",
+            "conq_hokey_religion"
+        ]
+    },
+    "SECONDSISTER": {
+        "nameKey": "Second Sister",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Ruthless Inquisitor Attacker that specializes in eliminating Jedi",
+        "baseId": "SECONDSISTER",
+        "categoryIdList": [
+            "role_attacker",
+            "role_leader",
+            "any_obtainable",
+            "selftag_secondsister",
+            "affiliation_empire",
+            "profession_inquisitorius",
+            "alignment_dark",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "territory_dark_platoon",
+            "conq_hokey_religion"
+        ]
+    },
+    "SMUGGLERHAN": {
+        "nameKey": "Veteran Smuggler Han Solo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Scoundrel Attacker with multi-attack and multiple devastating debuffs",
+        "baseId": "SMUGGLERHAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_resistance",
+            "profession_scoundrel",
+            "selftag_smugglerhan",
+            "any_obtainable",
+            "territory_light_platoon",
+            "profession_smuggler",
+            "affiliation_veteransmuggler",
+            "affiliation_resfalconcrew"
+        ]
+    },
+    "QIRA": {
+        "nameKey": "Qi'ra",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "High-utility Support that uses Prepared, debuffs, and an adaptable Leader ability to overwhelm enemies",
+        "baseId": "QIRA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "profession_scoundrel",
+            "selftag_qira",
+            "any_obtainable",
+            "territory_light_platoon",
+            "profession_smuggler",
+            "affiliation_crimsondawn",
+            "gac_millenniumco-pilot",
+            "gac_revenge",
+            "gac_workingclosely"
+        ]
+    },
+    "KANANJARRUSS3": {
+        "nameKey": "Kanan Jarrus",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Durable Phoenix Tank that keeps enemy Offense crippled and allies healthy",
+        "baseId": "KANANJARRUSS3",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "profession_jedi",
+            "affiliation_phoenix",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_kananjarruss3",
+            "any_obtainable",
+            "gac_alliancejedi",
+            "gac_holocron",
+            "conq_hokey_religion"
+        ]
+    },
+    "MAGMATROOPER": {
+        "nameKey": "Magmatrooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Resilient Attacker that recovers quickly from debuffs and deals potent AoE damage",
+        "baseId": "MAGMATROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "species_human",
+            "selftag_magmatrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "gac_impstormtroopers"
+        ]
+    },
+    "KYLEKATARN": {
+        "nameKey": "Kyle Katarn",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A Force-sensitive Rebel operative and Jedi Knight",
+        "baseId": "KYLEKATARN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_kylekatarn",
+            "profession_jedi",
+            "affiliation_rebels",
+            "affiliation_rebelfighter"
+        ]
+    },
+    "AAYLASECURA": {
+        "nameKey": "Aayla Secura",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile attacker with high survivability through Dodge, Hitpoints, and self healing.",
+        "baseId": "AAYLASECURA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_aaylasecura",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "conq_hokey_religion"
+        ]
+    },
+    "OLDBENKENOBI": {
+        "nameKey": "Obi-Wan Kenobi (Old Ben)",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Durable Jedi Tank able to shut down enemy offense with multiple debuffs",
+        "baseId": "OLDBENKENOBI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "species_human",
+            "profession_jedi",
+            "affiliation_rebels",
+            "selftag_oldbenkenobi",
+            "any_obtainable",
+            "affiliation_smuggled",
+            "gac_benr2d2",
+            "gac_alliancejedi",
+            "gac_avengeus",
+            "gac_iamthemaster",
+            "conq_hokey_religion",
+            "conq_newhope"
+        ]
+    },
+    "HERASYNDULLAS3": {
+        "nameKey": "Hera Syndulla",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Cunning Phoenix Support that allows Phoenix allies to share their Unique abilities with each other",
+        "baseId": "HERASYNDULLAS3",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_phoenix",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_herasyndullas3",
+            "any_obtainable",
+            "gac_rebelpilot"
+        ]
+    },
+    "CAPITALMONCALAMARICRUISER": {
+        "nameKey": "Home One",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Versatile Rebel Capital Ship that uses Advantage and bonus attacks to turn the tide",
+        "baseId": "CAPITALMONCALAMARICRUISER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_capital",
+            "affiliation_rebels",
+            "selftag_capitalmoncalamaricruiser",
+            "any_obtainable",
+            "shipclass_capitalship"
+        ]
+    },
+    "TIEFIGHTERFOSF": {
+        "nameKey": "First Order SF TIE Fighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Superior First Order Attacker that has multiple offensive capabilities and inflicts multiple debuffs",
+        "baseId": "TIEFIGHTERFOSF",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_firstorder",
+            "selftag_tiefighterfosf",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "territory_rare_ship_platoon",
+            "affiliation_foties",
+            "gac_tie"
+        ]
+    },
+    "MAGNAGUARD": {
+        "nameKey": "IG-100 MagnaGuard",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Disruptive Droid Tank that Taunts and takes an extra turn before it is defeated",
+        "baseId": "MAGNAGUARD",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "species_droid",
+            "selftag_magnaguard",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "MOTHERTALZIN": {
+        "nameKey": "Mother Talzin",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Vicious Nightsister Leader who inflicts Plague, preventing enemies from Dispelling debuffs",
+        "baseId": "MOTHERTALZIN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_nightsisters",
+            "selftag_mothertalzin",
+            "any_obtainable",
+            "platoon_legendary_restricted",
+            "dark_marquee_unit",
+            "territory_dark_platoon",
+            "gac_dathomirnative",
+            "gac_mothertcountd",
+            "gac_talzinopress",
+            "gac_revenge"
+        ]
+    },
+    "DEATHTROOPER": {
+        "nameKey": "Death Trooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Terrifying Empire Attacker who inflicts debilitating debuffs and prevents revives",
+        "baseId": "DEATHTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_empire",
+            "affiliation_imperialremnant",
+            "affiliation_imperialtrooper",
+            "selftag_deathtrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "gac_impstormtroopers",
+            "gac_krendeath"
+        ]
+    },
+    "MILLENNIUMFALCONPRISTINE": {
+        "nameKey": "Lando's Millennium Falcon",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Devastating Scoundrel attacker that becomes more threatening after each ally reinforcement",
+        "baseId": "MILLENNIUMFALCONPRISTINE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "profession_scoundrel",
+            "selftag_millenniumfalconpristine",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "territory_rare_ship_platoon",
+            "shipclass_cargoship",
+            "affiliation_millennium"
+        ]
+    },
+    "XWINGBLACKONE": {
+        "nameKey": "Poe Dameron's X-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Heroic Resistance Attacker that can exploit Turn Meter and punish enemies without Protection",
+        "baseId": "XWINGBLACKONE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_resistance",
+            "species_human",
+            "selftag_xwingblackone",
+            "any_obtainable",
+            "affiliation_resistancexwings"
+        ]
+    },
+    "ADMIRALRADDUS": {
+        "nameKey": "Admiral Raddus",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A brilliant Rebel tactician who supports his allies by buying time for them to carry out their mission",
+        "baseId": "ADMIRALRADDUS",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "any_obtainable",
+            "affiliation_rebels",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_admiralraddus"
+        ]
+    },
+    "K2SO": {
+        "nameKey": "K-2SO",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Tank who Taunts and Counter Attacks",
+        "baseId": "K2SO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "selftag_k2so",
+            "species_droid",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "any_obtainable",
+            "gac_rebelpilot",
+            "gac_droidpilot",
+            "gc_light_droid",
+            "gac_loyaldroid",
+            "gac_impdroid",
+            "gac_rebeldroid",
+            "gac_rogueone"
+        ]
+    },
+    "PADMEAMIDALA": {
+        "nameKey": "Padm\u00e9 Amidala",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Courageous leader who continuously helps her allies and adapts to any circumstance",
+        "baseId": "PADMEAMIDALA",
+        "categoryIdList": [
+            "selftag_padmeamidala",
+            "role_support",
+            "role_leader",
+            "alignment_light",
+            "affiliation_republic",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_forcedtolivealie",
+            "gac_dontlookback"
+        ]
+    },
+    "WAMPA": {
+        "nameKey": "Wampa",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Fearsome predator from Hoth that attacks constantly with increasing strength",
+        "baseId": "WAMPA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "selftag_wampa",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "platoon_legendary_dark"
+        ]
+    },
+    "MACEWINDU": {
+        "nameKey": "Mace Windu",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Jedi tank with devastating damage if left unchecked",
+        "baseId": "MACEWINDU",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "affiliation_republic",
+            "affiliation_galactic_republic_jedi",
+            "profession_jedi",
+            "species_human",
+            "selftag_macewindu",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "gac_riskymission",
+            "conq_hokey_religion",
+            "territory_light_platoon",
+            "character_fleetcommander"
+        ]
+    },
+    "SITHASSASSIN": {
+        "nameKey": "Sith Assassin",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Elusive Sith Attacker with Stealth synergy",
+        "baseId": "SITHASSASSIN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "profession_sith",
+            "selftag_sithassassin",
+            "affiliation_sithempire",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_doubleblade",
+            "affiliation_forcelightning",
+            "conq_hokey_religion",
+            "conq_lureofthedarkside",
+            "conq_sithinitiates"
+        ]
+    },
+    "JYNERSO": {
+        "nameKey": "Jyn Erso",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Rebel Leader who gains Advantage, Stuns enemies, revives Rebel allies and grants them Potency Up",
+        "baseId": "JYNERSO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_jynerso",
+            "any_obtainable",
+            "gac_rogueone"
+        ]
+    },
+    "DARTHSION": {
+        "nameKey": "Darth Sion",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Sith tank that becomes stronger with Hatred",
+        "baseId": "DARTHSION",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "profession_sith",
+            "selftag_darthsion",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "quest_darthsion",
+            "affiliation_sithlord",
+            "conq_hokey_religion"
+        ]
+    },
+    "POGGLETHELESSER": {
+        "nameKey": "Poggle the Lesser",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Support for Geonosian and Separatist allies, with strong offensive synergies",
+        "baseId": "POGGLETHELESSER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "species_geonosian",
+            "selftag_pogglethelesser",
+            "affiliation_separatist",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "territory_geonosis_separatist",
+            "non_viable_leader"
+        ]
+    },
+    "CT210408": {
+        "nameKey": "CT-21-0408 \"Echo\"",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Clone Trooper Support that automatically assists allies and can dispel all enemy buffs",
+        "baseId": "CT210408",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "affiliation_501st",
+            "affiliation_501st_visible",
+            "territory_light_platoon",
+            "species_human",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "affiliation_501st_clone",
+            "selftag_ct210408",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_algorithm",
+            "gac_experience"
+        ]
+    },
+    "DROIDEKA": {
+        "nameKey": "Droideka",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Destructive Droid attacker that punishes fast enemies from behind its deflector shield",
+        "baseId": "DROIDEKA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_droid",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "selftag_droideka",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_sepondathomir"
+        ]
+    },
+    "PRINCESSLEIA": {
+        "nameKey": "Princess Leia",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Well-rounded Rebel Attacker with extra attacks, Stealth, and team Critical bonuses.",
+        "baseId": "PRINCESSLEIA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_princessleia",
+            "any_obtainable",
+            "non_viable_leader",
+            "gac_hope"
+        ]
+    },
+    "SEVENTHSISTER": {
+        "nameKey": "Seventh Sister",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Inquisitorius Healer that helps her squad eliminate the Jedi",
+        "baseId": "SEVENTHSISTER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_healer",
+            "any_obtainable",
+            "selftag_seventhsister",
+            "role_leader",
+            "territory_dark_platoon",
+            "affiliation_empire",
+            "profession_inquisitorius",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "conq_hokey_religion"
+        ]
+    },
+    "UGNAUGHT": {
+        "nameKey": "Ugnaught",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Anti-Droid Support with AoE damage and high Evasion against Droids",
+        "baseId": "UGNAUGHT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "longitudinally_implemented",
+            "selftag_ugnaught",
+            "any_obtainable",
+            "gac_impdroid"
+        ]
+    },
+    "SNOWTROOPER": {
+        "nameKey": "Snowtrooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Empire Attacker that becomes faster and stronger as enemies are defeated",
+        "baseId": "SNOWTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_human",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "selftag_snowtrooper",
+            "any_obtainable",
+            "territory_hoth_empire",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "quest_snowtrooper",
+            "gac_hothvet",
+            "gac_veerssnow",
+            "gac_hothempvet",
+            "gac_impstormtroopers"
+        ]
+    },
+    "FIRSTORDEROFFICERMALE": {
+        "nameKey": "First Order Officer",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "First Order support that grants Advantage and can manipulate both ally and enemy Turn Meters",
+        "baseId": "FIRSTORDEROFFICERMALE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "affiliation_firstorder",
+            "species_human",
+            "selftag_firstorderofficermale",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_fomilitary"
+        ]
+    },
+    "VADER": {
+        "nameKey": "Darth Vader",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Fearsome Attacker that applies AoE Damage Over Time, and crushes debuffed targets for extra turns",
+        "baseId": "VADER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "species_human",
+            "affiliation_empire",
+            "profession_sith",
+            "selftag_vader",
+            "any_obtainable",
+            "territory_hoth_empire",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "affiliation_sithlord",
+            "gac_tiepilot",
+            "gac_trench",
+            "gac_execbh",
+            "gac_bespinocc",
+            "gac_vaderluke",
+            "gac_hadnochoice",
+            "gac_hothvet",
+            "gac_hothempvet",
+            "gac_foretold",
+            "gac_aspirations",
+            "gac_iamthemaster",
+            "gac_takethemaskoff",
+            "gac_thechosenone",
+            "conq_hokey_religion",
+            "conq_iknowthereisgood"
+        ]
+    },
+    "IMAGUNDI": {
+        "nameKey": "Ima-Gun Di",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Supportive Tank that boost ally defense and grants Jedi allies Counter Chance",
+        "baseId": "IMAGUNDI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_imagundi",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "conq_hokey_religion"
+        ]
+    },
+    "TIEADVANCED": {
+        "nameKey": "TIE Advanced x1",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Fearsome Empire Attacker that shuts enemies down with stacking debuffs and permanent Target Locks",
+        "baseId": "TIEADVANCED",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "territory_ship_platoon",
+            "selftag_tieadvanced",
+            "affiliation_empire",
+            "profession_sith",
+            "any_obtainable",
+            "gac_tie",
+            "gac_wantthemalive",
+            "gac_nowthisispodracing"
+        ]
+    },
+    "BAZEMALBUS": {
+        "nameKey": "Baze Malbus",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Fearsome Rebel Tank who Taunts, dispels buffs, and inflicts debuffs",
+        "baseId": "BAZEMALBUS",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_bazemalbus",
+            "any_obtainable",
+            "platoon_legendary_light",
+            "gac_whillsguard",
+            "gac_chaze"
+        ]
+    },
+    "PHANTOM2": {
+        "nameKey": "Phantom II",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Evasive Rebel attacker that provides as a decoy for the Ghost while applying buffs to allies",
+        "baseId": "PHANTOM2",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_rebels",
+            "affiliation_phoenix",
+            "selftag_phantom2",
+            "any_obtainable",
+            "shipclass_cargoship"
+        ]
+    },
+    "EMPERORPALPATINE": {
+        "nameKey": "Emperor Palpatine",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Overwhelming Sith Support who inflicts Shock and can Stun targets for multiple turns",
+        "baseId": "EMPERORPALPATINE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_empire",
+            "profession_sith",
+            "selftag_emperorpalpatine",
+            "any_obtainable",
+            "platoon_legendary_dark",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "affiliation_palp",
+            "affiliation_order66",
+            "affiliation_sithlord",
+            "affiliation_forcelightning",
+            "gac_takethemaskoff",
+            "conq_hokey_religion",
+            "conq_galacticemperor"
+        ]
+    },
+    "ADMINISTRATORLANDO": {
+        "nameKey": "Lando Calrissian",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Scoundrel leader with high offense and excellent Critical Hit synergy",
+        "baseId": "ADMINISTRATORLANDO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "species_human",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "profession_scoundrel",
+            "specialmission_corerebels",
+            "selftag_administratorlando",
+            "any_obtainable",
+            "affiliation_sabacc",
+            "affiliation_rebfalconcrew",
+            "gac_rebelpilot",
+            "gac_oldsmoothie",
+            "gac_hadnochoice",
+            "gac_landolobot",
+            "non_viable_leader",
+            "gac_alltooeasy"
+        ]
+    },
+    "SUNFAC": {
+        "nameKey": "Sun Fac",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Geonosian Tank who punishes attackers with a variety of negative effects",
+        "baseId": "SUNFAC",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "species_geonosian",
+            "selftag_sunfac",
+            "affiliation_separatist",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "TIEBOMBERIMPERIAL": {
+        "nameKey": "Imperial TIE Bomber",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Debilitating Empire Tank that inflicts Burning, cripples enemies' Offense, and provides heavy defensive capability.",
+        "baseId": "TIEBOMBERIMPERIAL",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_empire",
+            "selftag_tiebomberimperial",
+            "crewless",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_wantthemalive"
+        ]
+    },
+    "JEDISTARFIGHTERANAKIN": {
+        "nameKey": "Anakin's Eta-2 Starfighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Jedi Attacker that bolsters Offense and retaliates when allies are in trouble",
+        "baseId": "JEDISTARFIGHTERANAKIN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "any_obtainable",
+            "selftag_jedistarfighteranakin",
+            "gac_funbegins",
+            "gac_nowthisispodracing"
+        ]
+    },
+    "DARTHSIDIOUS": {
+        "nameKey": "Darth Sidious",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Brutal Attacker effective against Healers and Jedi while boosting allied Criticals as a Leader",
+        "baseId": "DARTHSIDIOUS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_sith",
+            "selftag_darthsidious",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_sithlord",
+            "affiliation_palp",
+            "affiliation_order66",
+            "non_viable_leader",
+            "gac_sidmaul",
+            "gac_rival",
+            "gac_servantoftheempire",
+            "conq_hokey_religion"
+        ]
+    },
+    "CHIEFCHIRPA": {
+        "nameKey": "Chief Chirpa",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Ewok Leader that greatly improves ally Basic abilities",
+        "baseId": "CHIEFCHIRPA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "species_ewok",
+            "selftag_chiefchirpa",
+            "any_obtainable"
+        ]
+    },
+    "ZEBS3": {
+        "nameKey": "Garazeb \"Zeb\" Orrelios",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Phoenix Tank with wide variety of effects for allies or enemies with or without debuffs",
+        "baseId": "ZEBS3",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_phoenix",
+            "specialmission_corerebels",
+            "selftag_zebs3",
+            "any_obtainable"
+        ]
+    },
+    "GHOST": {
+        "nameKey": "Ghost",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Elusive Rebel attacker that reduces enemy Potency and wreaks havok with Rebel allies",
+        "baseId": "GHOST",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_rebels",
+            "affiliation_phoenix",
+            "selftag_ghost",
+            "any_obtainable",
+            "shipclass_cargoship"
+        ]
+    },
+    "NIGHTSISTERINITIATE": {
+        "nameKey": "Nightsister Initiate",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Critical-focused Attacker that can render enemies immune to buffs",
+        "baseId": "NIGHTSISTERINITIATE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_nightsisters",
+            "selftag_nightsisterinitiate",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_dathomirnative",
+            "conq_swordofajuntapall"
+        ]
+    },
+    "MILLENNIUMFALCON": {
+        "nameKey": "Han's Millennium Falcon",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Highly-modified Rebel Attacker that specializes in assists\u00a0and shows up at just the right time",
+        "baseId": "MILLENNIUMFALCON",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_rebels",
+            "profession_scoundrel",
+            "selftag_millenniumfalcon",
+            "shipclass_cargoship",
+            "any_obtainable",
+            "affiliation_millennium",
+            "gac_floataway"
+        ]
+    },
+    "CAPITALSTARDESTROYER": {
+        "nameKey": "Executrix",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Empire Capital Ship that crushes debuffed enemies",
+        "baseId": "CAPITALSTARDESTROYER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_capital",
+            "affiliation_empire",
+            "selftag_capitalstardestroyer",
+            "any_obtainable",
+            "shipclass_capitalship",
+            "exclude_from_tb_mission"
+        ]
+    },
+    "GEONOSIANBROODALPHA": {
+        "nameKey": "Geonosian Brood Alpha",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Geonosian Support that swarms enemies with summoned allies and Hive Mind",
+        "baseId": "GEONOSIANBROODALPHA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "species_geonosian",
+            "affiliation_separatist",
+            "selftag_geonosianbroodalpha",
+            "any_obtainable",
+            "platoon_legendary_restricted",
+            "SOE_summoner"
+        ]
+    },
+    "NIGHTSISTERACOLYTE": {
+        "nameKey": "Nightsister Acolyte",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Stealth attacker with some enemy debuffing and self healing ability.",
+        "baseId": "NIGHTSISTERACOLYTE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_nightsisters",
+            "selftag_nightsisteracolyte",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_dathomirnative"
+        ]
+    },
+    "GEONOSIANSOLDIER": {
+        "nameKey": "Geonosian Soldier",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Attacker who calls assists and grants powerful offensive bonuses to Geonosian allies",
+        "baseId": "GEONOSIANSOLDIER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_geonosian",
+            "selftag_geonosiansoldier",
+            "affiliation_separatist",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "RAVENSCLAW": {
+        "nameKey": "Raven's Claw",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "A Rebel ship crewed by Kyle Katarn that is able to dictate the flow of battle",
+        "baseId": "RAVENSCLAW",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "any_obtainable",
+            "selftag_ravensclaw",
+            "profession_jedi",
+            "affiliation_rebels"
+        ]
+    },
+    "MAUL": {
+        "nameKey": "Darth Maul",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Deadly Attacker that gains power and extra turns as enemies are defeated",
+        "baseId": "MAUL",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_sith",
+            "selftag_maul",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_doubleblade",
+            "affiliation_sithlord",
+            "affiliation_dathbros",
+            "affiliation_crimsondawn",
+            "gac_thecovenssecrets",
+            "gac_dathomirnative",
+            "gac_sidmaul",
+            "gac_revenge",
+            "gac_deatchwatch",
+            "gac_desperateescape",
+            "gac_handlethis",
+            "gac_rival",
+            "gac_avengeus",
+            "gac_nightbrother",
+            "conq_hokey_religion"
+        ]
+    },
+    "JAWA": {
+        "nameKey": "Jawa",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Attacker effective against debuffed enemies as well as Droids",
+        "baseId": "JAWA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "species_jawa",
+            "longitudinally_implemented",
+            "selftag_jawa",
+            "any_obtainable"
+        ]
+    },
+    "BOSSK": {
+        "nameKey": "Bossk",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Bounty Hunter Tank that constantly regenerates Health and Protection",
+        "baseId": "BOSSK",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_bossk",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "gac_execbh",
+            "gac_revenge"
+        ]
+    },
+    "RESISTANCEPILOT": {
+        "nameKey": "Resistance Pilot",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resistance attacker that can use Expose, Foresight, and Turn Meter gains to surprise enemies",
+        "baseId": "RESISTANCEPILOT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_resistance",
+            "species_human",
+            "selftag_resistancepilot",
+            "any_obtainable"
+        ]
+    },
+    "JEDIKNIGHTLUKE": {
+        "nameKey": "Jedi Knight Luke Skywalker",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Stalwart Jedi hero of legend who ascends to victorious heights alongside his Jedi allies through the will of the Force",
+        "baseId": "JEDIKNIGHTLUKE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "profession_jedi",
+            "selftag_jediknightluke",
+            "any_obtainable",
+            "gac_therescue",
+            "gac_takethemaskoff",
+            "conq_hokey_religion",
+            "conq_iknowthereisgood"
+        ]
+    },
+    "VEERS": {
+        "nameKey": "General Veers",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Empire Support that becomes stronger as enemies are defeated",
+        "baseId": "VEERS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "selftag_veers",
+            "any_obtainable",
+            "territory_hoth_empire",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "gac_hothvet",
+            "gac_veerssnow",
+            "gac_hothempvet",
+            "non_viable_leader"
+        ]
+    },
+    "PAO": {
+        "nameKey": "Pao",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Unrelenting Rebel Attacker with a mighty battle cry",
+        "baseId": "PAO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_pao",
+            "any_obtainable"
+        ]
+    },
+    "XWINGRED2": {
+        "nameKey": "Wedge Antilles's X-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Aggressive Rebel Attacker that overwhelms enemies with debuffs",
+        "baseId": "XWINGRED2",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_ship_platoon",
+            "selftag_xwingred2",
+            "affiliation_rebels",
+            "any_obtainable"
+        ]
+    },
+    "HYENABOMBER": {
+        "nameKey": "Hyena Bomber",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Robust Separatist Tank that inflicts Buzz Droids and protects allies",
+        "baseId": "HYENABOMBER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "species_droid",
+            "selftag_hyenabomber",
+            "crewless",
+            "any_obtainable"
+        ]
+    },
+    "XWINGRED3": {
+        "nameKey": "Biggs Darklighter's X-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Heroic Rebel Tank that can exploit Target Lock for Taunts and Assists",
+        "baseId": "XWINGRED3",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_ship_platoon",
+            "selftag_xwingred3",
+            "affiliation_rebels",
+            "any_obtainable"
+        ]
+    },
+    "DARTHREVAN": {
+        "nameKey": "Darth Revan",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Ruthless Sith Lord that is extremely effective at taking down the enemy leader",
+        "baseId": "DARTHREVAN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_sith",
+            "selftag_darthrevan",
+            "affiliation_sithempire",
+            "any_obtainable",
+            "affiliation_sithlord",
+            "conq_hokey_religion",
+            "conq_sustainedbyrage",
+            "conq_lureofthedarkside"
+        ]
+    },
+    "DATHCHA": {
+        "nameKey": "Dathcha",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Support able to Ability Block and Stealth, effective against Droids or with Jawas",
+        "baseId": "DATHCHA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "species_jawa",
+            "selftag_dathcha",
+            "any_obtainable"
+        ]
+    },
+    "RAZORCREST": {
+        "nameKey": "Razor Crest",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Tenacious Bounty Hunter attacker with Breach synergy.",
+        "baseId": "RAZORCREST",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_razorcrest",
+            "profession_bountyhunter",
+            "shipclass_cargoship",
+            "profession_scoundrel"
+        ]
+    },
+    "FENNECSHAND": {
+        "nameKey": "Fennec Shand",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Lethal Bounty Hunter capable of taking on the most dangerous foes",
+        "baseId": "FENNECSHAND",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "any_obtainable",
+            "selftag_fennecshand",
+            "conq_wretched"
+        ]
+    },
+    "JEDIMASTERKENOBI": {
+        "nameKey": "Jedi Master Kenobi",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Renowned Jedi Master that provides damage and support through a diverse set of abilities",
+        "baseId": "JEDIMASTERKENOBI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "galactic_legend",
+            "reduced_massive_damage",
+            "any_obtainable",
+            "selftag_jedimasterkenobi",
+            "affiliation_galactic_republic_jedi",
+            "affiliation_republic",
+            "profession_jedi",
+            "turn_meter_blocking_leader",
+            "conq_hokey_religion"
+        ]
+    },
+    "ANAKINKNIGHT": {
+        "nameKey": "Jedi Knight Anakin",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "High-pressure Jedi attacker that punishes enemies for wounding his allies",
+        "baseId": "ANAKINKNIGHT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "species_human",
+            "selftag_anakinknight",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "non_viable_leader",
+            "gac_succession",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "gac_thecovenssecrets",
+            "gac_riskymission",
+            "gac_forcedtolivealie",
+            "gac_servantoftheempire",
+            "gac_thechosenone",
+            "conq_hokey_religion",
+            "conq_hellothere"
+        ]
+    },
+    "BOBAFETTSCION": {
+        "nameKey": "Boba Fett, Scion of Jango",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Infamous Bounty Hunter Attacker with a variety of debuffs and synergy with both Bounty Hunters and Scoundrels",
+        "baseId": "BOBAFETTSCION",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "any_obtainable",
+            "selftag_bobafettscion"
+        ]
+    },
+    "YOUNGHAN": {
+        "nameKey": "Young Han Solo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Scoundrel Attacker who becomes more deadly over time",
+        "baseId": "YOUNGHAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "profession_scoundrel",
+            "selftag_younghan",
+            "any_obtainable",
+            "territory_light_platoon",
+            "profession_smuggler",
+            "affiliation_prisfalconcrew",
+            "affiliation_sabacc",
+            "gac_revenge",
+            "gac_droidfree",
+            "gac_workingclosely"
+        ]
+    },
+    "JEDIKNIGHTCONSULAR": {
+        "nameKey": "Jedi Consular",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Well-rounded Jedi Healer with a mix of offense and defense",
+        "baseId": "JEDIKNIGHTCONSULAR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_jediknightconsular",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "conq_hokey_religion",
+            "conq_jedipath"
+        ]
+    },
+    "TIEFIGHTERPILOT": {
+        "nameKey": "TIE Fighter Pilot",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Empire Attacker who inflicts Buff Immunity and gains Foresight",
+        "baseId": "TIEFIGHTERPILOT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_empire",
+            "selftag_tiefighterpilot",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "gac_tiepilot"
+        ]
+    },
+    "B1BATTLEDROIDV2": {
+        "nameKey": "B1 Battle Droid",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Fragile Separatist Attacker that overwhelms their enemies with numbers",
+        "baseId": "B1BATTLEDROIDV2",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_droid",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "any_obtainable",
+            "dark_marquee_unit",
+            "territory_dark_platoon",
+            "selftag_b1battledroidv2",
+            "no_recovery",
+            "gac_sepondathomir"
+        ]
+    },
+    "MG100STARFORTRESSSF17": {
+        "nameKey": "MG-100 StarFortress SF-17",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Resilient Resistance Tank that can take punishment and debilitate enemies",
+        "baseId": "MG100STARFORTRESSSF17",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "affiliation_resistance",
+            "any_obtainable",
+            "selftag_mg100starfortresssf17"
+        ]
+    },
+    "CORUSCANTUNDERWORLDPOLICE": {
+        "nameKey": "Coruscant Underworld Police",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Support that shuts down enemies with Stuns and Offense Down",
+        "baseId": "CORUSCANTUNDERWORLDPOLICE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "longitudinally_implemented",
+            "affiliation_republic",
+            "selftag_coruscantunderworldpolice",
+            "any_obtainable"
+        ]
+    },
+    "GAMORREANGUARD": {
+        "nameKey": "Gamorrean Guard",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive tank that Taunts and Counters with multiple Damage Over Time effects",
+        "baseId": "GAMORREANGUARD",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "any_obtainable",
+            "profession_scoundrel",
+            "territory_dark_platoon",
+            "selftag_gamorreanguard"
+        ]
+    },
+    "ZAALBAR": {
+        "nameKey": "Zaalbar",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Scoundrel Tank with a powerful AoE attack and reactive Taunt",
+        "baseId": "ZAALBAR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "affiliation_oldrepublic",
+            "profession_scoundrel",
+            "selftag_zaalbar",
+            "any_obtainable",
+            "species_wookiee",
+            "conq_swordofajuntapall"
+        ]
+    },
+    "EWOKSCOUT": {
+        "nameKey": "Ewok Scout",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Powerful single-target Attacker that becomes evasive with Ewok allies",
+        "baseId": "EWOKSCOUT",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "species_ewok",
+            "longitudinally_implemented",
+            "selftag_ewokscout",
+            "any_obtainable"
+        ]
+    },
+    "SMUGGLERCHEWBACCA": {
+        "nameKey": "Veteran Smuggler Chewbacca",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Lumbering attacker who accumulates Offensive capabilities as enemies take actions",
+        "baseId": "SMUGGLERCHEWBACCA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_resistance",
+            "profession_scoundrel",
+            "selftag_smugglerchewbacca",
+            "any_obtainable",
+            "territory_light_platoon",
+            "species_wookiee",
+            "profession_smuggler",
+            "affiliation_veteransmuggler",
+            "affiliation_resfalconcrew",
+            "gac_millenniumco-pilot"
+        ]
+    },
+    "EBONHAWK": {
+        "nameKey": "Ebon Hawk",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Durable Old Republic Support that dispels enemies and prevents Target Lock",
+        "baseId": "EBONHAWK",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "affiliation_oldrepublic",
+            "selftag_ebonhawk",
+            "shipclass_cargoship",
+            "any_obtainable",
+            "territory_ship_platoon"
+        ]
+    },
+    "NIGHTSISTERZOMBIE": {
+        "nameKey": "Nightsister Zombie",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Vile Nightsister Tank who inflicts Tenacity Down and can't be stopped from reviving endlessly",
+        "baseId": "NIGHTSISTERZOMBIE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_nightsisters",
+            "selftag_nightsisterzombie",
+            "any_obtainable",
+            "dark_marquee_unit",
+            "territory_dark_platoon",
+            "gac_dathomirnative",
+            "gac_nszomspi"
+        ]
+    },
+    "DAKA": {
+        "nameKey": "Old Daka",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Defensive Nightsister Healer who Stuns and Revives",
+        "baseId": "DAKA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_healer",
+            "role_leader",
+            "affiliation_nightsisters",
+            "selftag_daka",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_dathomirnative"
+        ]
+    },
+    "THEMANDALORIANBESKARARMOR": {
+        "nameKey": "The Mandalorian (Beskar Armor)",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Fearless Scoundrel leader who hunts down enemies to protect his allies",
+        "baseId": "THEMANDALORIANBESKARARMOR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_mandalorian",
+            "profession_scoundrel",
+            "any_obtainable",
+            "selftag_themandalorianbeskararmor",
+            "gac_daringplan",
+            "gac_therescue",
+            "gac_foundlings",
+            "conq_wantmyarmor"
+        ]
+    },
+    "MILLENNIUMFALCONEP7": {
+        "nameKey": "Rey's Millennium Falcon",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Daring Resistance freighter that can turn the tide by sacrificing buffs",
+        "baseId": "MILLENNIUMFALCONEP7",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "selftag_millenniumfalconep7",
+            "affiliation_resistance",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "territory_rare_ship_platoon",
+            "shipclass_cargoship",
+            "affiliation_millennium"
+        ]
+    },
+    "B2SUPERBATTLEDROID": {
+        "nameKey": "B2 Super Battle Droid",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Droid Tank that relentlessly punishes enemies that evade attacks or damage allies",
+        "baseId": "B2SUPERBATTLEDROID",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "species_droid",
+            "selftag_b2superbattledroid",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_sepondathomir"
+        ]
+    },
+    "MONMOTHMA": {
+        "nameKey": "Mon Mothma",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Leader who supports and rallies her allies",
+        "baseId": "MONMOTHMA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "affiliation_rebels",
+            "selftag_monmothma",
+            "any_obtainable",
+            "category_pacifist",
+            "gac_hope"
+        ]
+    },
+    "STORMTROOPER": {
+        "nameKey": "Stormtrooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Empire Tank that can Taunt and surprise enemies with unpredictable damage",
+        "baseId": "STORMTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_empire",
+            "affiliation_imperialremnant",
+            "affiliation_imperialtrooper",
+            "selftag_stormtrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "quest_stormtrooper",
+            "gac_bespinocc",
+            "gac_impstormtroopers"
+        ]
+    },
+    "ADMIRALACKBAR": {
+        "nameKey": "Admiral Ackbar",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Support that can Dispel debuffs and grant allies extra turns",
+        "baseId": "ADMIRALACKBAR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_admiralackbar",
+            "any_obtainable",
+            "character_fleetcommander"
+        ]
+    },
+    "SCARIFREBEL": {
+        "nameKey": "Scarif Rebel Pathfinder",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Steadfast Rebel Tank who debuffs, Taunts, and self-revives",
+        "baseId": "SCARIFREBEL",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_scarifrebel",
+            "any_obtainable"
+        ]
+    },
+    "ZAMWESELL": {
+        "nameKey": "Zam Wesell",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Lightning fast Scoundrel attacker that inflicts Evasion Down and detonates bombs.",
+        "baseId": "ZAMWESELL",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_zamwesell",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "non_viable_leader",
+            "gac_justajob",
+            "gac_revenge"
+        ]
+    },
+    "CT7567": {
+        "nameKey": "CT-7567 \"Rex\"",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Clone Leader who fiercely supports and protects his 501st and Clone Trooper allies",
+        "baseId": "CT7567",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "affiliation_501st",
+            "affiliation_501st_visible",
+            "territory_light_platoon",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "species_human",
+            "selftag_ct7567",
+            "affiliation_501st_clone",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_jangoclone",
+            "gac_experience",
+            "gac_ahsokasjourney",
+            "gac_desperateescape",
+            "gac_diversion",
+            "gac_herooftherepublic"
+        ]
+    },
+    "R2D2_LEGENDARY": {
+        "nameKey": "R2-D2",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Support Droid that inflicts Burning and grants allies Stealth",
+        "baseId": "R2D2_LEGENDARY",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "species_droid",
+            "affiliation_republic",
+            "affiliation_rebels",
+            "specialmission_legendarylight",
+            "affiliation_resistance",
+            "selftag_r2d2_legendary",
+            "any_obtainable",
+            "territory_light_platoon",
+            "platoon_legendary_light",
+            "platoon_legendary_restricted",
+            "territory_geonosis_republic",
+            "gac_droidpilot",
+            "gac_hothvet",
+            "gac_benr2d2",
+            "gc_light_droid",
+            "gac_rebuilt",
+            "gac_loyaldroid",
+            "gac_rebeldroid",
+            "gac_r2c3",
+            "gac_alltooeasy"
+        ]
+    },
+    "COMMANDERAHSOKA": {
+        "nameKey": "Commander Ahsoka Tano",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Legendary Master of Jar'Kai and Shien form Attacker, who deals high damage to a single target.",
+        "baseId": "COMMANDERAHSOKA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_commanderahsoka",
+            "affiliation_republic",
+            "profession_scoundrel",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "territory_geonosis_republic",
+            "gac_diversion",
+            "conq_hokey_religion"
+        ]
+    },
+    "PAPLOO": {
+        "nameKey": "Paploo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resourceful Ewok Tank with assist and buff synergies",
+        "baseId": "PAPLOO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "species_ewok",
+            "selftag_paploo",
+            "any_obtainable"
+        ]
+    },
+    "CAPITALFINALIZER": {
+        "nameKey": "Finalizer",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "First Order Capital Ship that enables the First Order fleet to have an early game advantage and relentlessly pursue enemies",
+        "baseId": "CAPITALFINALIZER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_capital",
+            "any_obtainable",
+            "shipclass_capitalship",
+            "selftag_capitalfinalizer",
+            "affiliation_firstorder",
+            "exclude_from_tb_mission"
+        ]
+    },
+    "COLONELSTARCK": {
+        "nameKey": "Colonel Starck",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Support who provides critical buffs and removes enemy Turn Meter",
+        "baseId": "COLONELSTARCK",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "selftag_colonelstarck",
+            "any_obtainable",
+            "territory_hoth_empire",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "specialmission_imperialtrooper",
+            "gac_hothvet",
+            "gac_hothempvet"
+        ]
+    },
+    "GENERALSKYWALKER": {
+        "nameKey": "General Skywalker",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Fierce Jedi Attacker who protects his battalion at all costs",
+        "baseId": "GENERALSKYWALKER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_501st",
+            "affiliation_501st_visible",
+            "affiliation_republic",
+            "profession_jedi",
+            "any_obtainable",
+            "selftag_generalskywalker",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "gac_thecovenssecrets",
+            "gac_herooftherepublic",
+            "gac_servantoftheempire",
+            "gac_thechosenone",
+            "conq_hokey_religion"
+        ]
+    },
+    "IG86SENTINELDROID": {
+        "nameKey": "IG-86 Sentinel Droid",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Droid Attacker with a powerful Droid Assist and devastating Criticals",
+        "baseId": "IG86SENTINELDROID",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_droid",
+            "selftag_ig86sentineldroid",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "SABINEWRENS3": {
+        "nameKey": "Sabine Wren",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Phoenix Attacker that permanently strips Defense and punishes slower enemies",
+        "baseId": "SABINEWRENS3",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_mandalorian",
+            "affiliation_phoenix",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_sabinewrens3",
+            "any_obtainable",
+            "gac_identity",
+            "gac_darksaber"
+        ]
+    },
+    "SAVAGEOPRESS": {
+        "nameKey": "Savage Opress",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Durable Attacker that crushes low-health units and becomes stronger when attacked",
+        "baseId": "SAVAGEOPRESS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_sith",
+            "longitudinally_implemented",
+            "selftag_savageopress",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_doubleblade",
+            "affiliation_dathbros",
+            "non_viable_leader",
+            "gac_dathomirnative",
+            "gac_talzinopress",
+            "gac_asajjopress",
+            "gac_revenge",
+            "gac_rival",
+            "gac_nightbrother",
+            "conq_hokey_religion"
+        ]
+    },
+    "ENFYSNEST": {
+        "nameKey": "Enfys Nest",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Powerhouse attacker that stacks Protection when attacked, then dismantles enemy defenses with Dispels and Turn Meter manipulation",
+        "baseId": "ENFYSNEST",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "profession_scoundrel",
+            "selftag_enfysnest",
+            "any_obtainable",
+            "territory_light_platoon",
+            "profession_smuggler",
+            "gac_workingclosely"
+        ]
+    },
+    "REY": {
+        "nameKey": "Rey (Scavenger)",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Risky Attacker that has high damage and evasion, but is vulnerable to debuffs",
+        "baseId": "REY",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_resistance",
+            "species_human",
+            "selftag_rey",
+            "any_obtainable",
+            "affiliation_reys",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "gac_millenniumco-pilot",
+            "conq_hokey_religion"
+        ]
+    },
+    "BOKATAN": {
+        "nameKey": "Bo-Katan Kryze",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A Mandalorian leader that unites fellow Mandalorians and rallies them to assist.",
+        "baseId": "BOKATAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "any_obtainable",
+            "selftag_bokatan",
+            "affiliation_mandalorian",
+            "profession_scoundrel",
+            "gac_deatchwatch",
+            "gac_ahsokasjourney",
+            "gac_darksaber",
+            "gac_therescue"
+        ]
+    },
+    "BLADEOFDORIN": {
+        "nameKey": "Plo Koon's Jedi Starfighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Versatile Jedi Support with powerful Republic buffs and a targeted ally Taunt",
+        "baseId": "BLADEOFDORIN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_ship_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_bladeofdorin",
+            "any_obtainable"
+        ]
+    },
+    "CANDEROUSORDO": {
+        "nameKey": "Canderous Ordo",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Powerful attacker who can make short work of enemy Tanks",
+        "baseId": "CANDEROUSORDO",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_mandalorian",
+            "affiliation_oldrepublic",
+            "profession_scoundrel",
+            "any_obtainable",
+            "selftag_canderousordo",
+            "territory_dark_platoon"
+        ]
+    },
+    "DIRECTORKRENNIC": {
+        "nameKey": "Director Krennic",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Intimidating Empire Support who inflicts devastating debuffs and slows enemies",
+        "baseId": "DIRECTORKRENNIC",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "species_human",
+            "affiliation_empire",
+            "selftag_directorkrennic",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "gac_krendeath",
+            "non_viable_leader",
+            "gac_aspirations"
+        ]
+    },
+    "POE": {
+        "nameKey": "Poe Dameron",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Resistance Tank with a Taunt that inflicts Expose for big reversals",
+        "baseId": "POE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_resistance",
+            "species_human",
+            "selftag_poe",
+            "any_obtainable",
+            "affiliation_jacket",
+            "affiliation_el16",
+            "non_viable_leader"
+        ]
+    },
+    "BADBATCHOMEGA": {
+        "nameKey": "Omega",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Clever and empathetic attacker who utilizes buffs, debuffs, and the presence of her Bad Batch allies to take out her foes.",
+        "baseId": "BADBATCHOMEGA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_badbatchomega",
+            "affiliation_badbatch",
+            "profession_clonetrooper"
+        ]
+    },
+    "CHIRRUTIMWE": {
+        "nameKey": "Chirrut \u00cemwe",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Balanced Rebel Attacker who dispels debuffs, heals allies, and grants Tenacity Up",
+        "baseId": "CHIRRUTIMWE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "any_obtainable",
+            "selftag_chirrutimwe",
+            "gac_whillsguard",
+            "gac_chaze"
+        ]
+    },
+    "TIEFIGHTERIMPERIAL": {
+        "nameKey": "Imperial TIE Fighter",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Evasive Empire Attacker that both inflicts and exploits Target Lock",
+        "baseId": "TIEFIGHTERIMPERIAL",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_empire",
+            "selftag_tiefighterimperial",
+            "any_obtainable",
+            "gac_tie",
+            "gac_tiefighter",
+            "gac_wantthemalive"
+        ]
+    },
+    "SITHMARAUDER": {
+        "nameKey": "Sith Marauder",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Destructive Sith Attacker that takes advantage of all buffs and debuffs in battle",
+        "baseId": "SITHMARAUDER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "profession_sith",
+            "affiliation_sithempire",
+            "selftag_sithmarauder",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "conq_hokey_religion",
+            "conq_sithinitiates"
+        ]
+    },
+    "FIRSTORDERTIEECHELON": {
+        "nameKey": "TIE Echelon",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "First Order Tank that covers its allies by providing them with Stealth",
+        "baseId": "FIRSTORDERTIEECHELON",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "affiliation_firstorder",
+            "any_obtainable",
+            "selftag_firstordertieechelon"
+        ]
+    },
+    "BARRISSOFFEE": {
+        "nameKey": "Barriss Offee",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Jedi Healer that can balance party Health and Dispel allied Jedi frequently",
+        "baseId": "BARRISSOFFEE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_barrissoffee",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "conq_hokey_religion"
+        ]
+    },
+    "TIEINTERCEPTOR": {
+        "nameKey": "TIE/IN Interceptor Prototype",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Imperial fast-attack craft that is as nimble as it is deadly. Second Sister's force powers allow her to perform maneuvers many would consider unnatural.",
+        "baseId": "TIEINTERCEPTOR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_tieinterceptor",
+            "affiliation_empire",
+            "profession_inquisitorius"
+        ]
+    },
+    "ASAJVENTRESS": {
+        "nameKey": "Asajj Ventress",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Nightsister controller with healing who generates attack power as characters are defeated",
+        "baseId": "ASAJVENTRESS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_nightsisters",
+            "selftag_asajventriss",
+            "affiliation_separatist",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_dathomirnative",
+            "gac_asajjopress",
+            "conq_hokey_religion"
+        ]
+    },
+    "UWINGROGUEONE": {
+        "nameKey": "Cassian's U-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Evasive Rebel Support ship that turns the tide of battle with Stealth and Turn Meter manipulation",
+        "baseId": "UWINGROGUEONE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "affiliation_rebels",
+            "affiliation_rogue_one",
+            "selftag_uwingrogueone",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "gac_uwing"
+        ]
+    },
+    "YOUNGLANDO": {
+        "nameKey": "Young Lando Calrissian",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Scoundrel Attacker that takes advantage of debuffed enemies and deals ever-increasing damage",
+        "baseId": "YOUNGLANDO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "profession_scoundrel",
+            "selftag_younglando",
+            "any_obtainable",
+            "profession_smuggler",
+            "affiliation_sabacc",
+            "affiliation_prisfalconcrew",
+            "gac_droidfree",
+            "gac_workingclosely"
+        ]
+    },
+    "COMMANDERLUKESKYWALKER": {
+        "nameKey": "Commander Luke Skywalker",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Determined Rebel hero who can ignore debuffs or ignore Taunts",
+        "baseId": "COMMANDERLUKESKYWALKER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_rebels",
+            "selftag_commanderlukeskywalker",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "any_obtainable",
+            "territory_hoth",
+            "platoon_legendary_light",
+            "platoon_legendary_restricted",
+            "territory_hoth_hero_rebel",
+            "territory_light_platoon",
+            "gac_rebelpilot",
+            "gac_hothvet",
+            "gac_vaderluke",
+            "gac_hodacls",
+            "gac_rogue",
+            "gac_alltooeasy",
+            "conq_hokey_religion"
+        ]
+    },
+    "MAULS7": {
+        "nameKey": "Maul",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Unrelenting attacker that uses his anguish to crush his foes",
+        "baseId": "MAULS7",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "any_obtainable",
+            "selftag_mauls7",
+            "affiliation_mandalorian",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "conq_hokey_religion"
+        ]
+    },
+    "GARSAXON": {
+        "nameKey": "Gar Saxon",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Leader who grants Empire allies Counter Chance and Assists them when they Counter Attack",
+        "baseId": "GARSAXON",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "role_leader",
+            "affiliation_empire",
+            "affiliation_mandalorian",
+            "selftag_garsaxon",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "non_viable_leader",
+            "gac_identity",
+            "gac_deatchwatch"
+        ]
+    },
+    "L3_37": {
+        "nameKey": "L3-37",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Droid Tank that can dispel allies and has multiple ways to increase her stats permanently",
+        "baseId": "L3_37",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "profession_scoundrel",
+            "species_droid",
+            "selftag_l3_37",
+            "any_obtainable",
+            "profession_smuggler",
+            "affiliation_prisfalconcrew",
+            "gac_millenniumco-pilot",
+            "gac_droidpilot",
+            "gc_light_droid",
+            "gac_loyaldroid",
+            "gac_droidfree",
+            "gac_workingclosely"
+        ]
+    },
+    "GRANDMOFFTARKIN": {
+        "nameKey": "Grand Moff Tarkin",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Empire Support with crushing AoE debuffs",
+        "baseId": "GRANDMOFFTARKIN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "species_human",
+            "affiliation_empire",
+            "selftag_grandmofftarkin",
+            "any_obtainable",
+            "character_fleetcommander",
+            "territory_dark_platoon",
+            "specialmission_empire",
+            "non_viable_leader"
+        ]
+    },
+    "FOSITHTROOPER": {
+        "nameKey": "Sith Trooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Elite trooper with powerful First Order and Sith synergy and high damage potential.",
+        "baseId": "FOSITHTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "affiliation_firstorder",
+            "profession_sith",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "selftag_fosithtrooper",
+            "gac_fostormtrooper"
+        ]
+    },
+    "YWINGREBEL": {
+        "nameKey": "Rebel Y-wing",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Sturdy Rebel Tank that can disable enemy Protection",
+        "baseId": "YWINGREBEL",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "any_obtainable",
+            "selftag_ywingrebel",
+            "affiliation_rebels",
+            "crewless"
+        ]
+    },
+    "SHAAKTI": {
+        "nameKey": "Shaak Ti",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Inspiring Jedi Leader with heightened reflexes",
+        "baseId": "SHAAKTI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_shaakti",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "conq_hokey_religion"
+        ]
+    },
+    "CARADUNE": {
+        "nameKey": "Cara Dune",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "A Scoundrel/Rebel Tank who gains benefits when being led by either.",
+        "baseId": "CARADUNE",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "any_obtainable",
+            "selftag_caradune",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "profession_scoundrel",
+            "gac_daringplan",
+            "gac_therescue"
+        ]
+    },
+    "FIFTHBROTHER": {
+        "nameKey": "Fifth Brother",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "A powerful Inquisitor that specializes in supporting the purge of all Jedi by applying devastating debuffs.",
+        "baseId": "FIFTHBROTHER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_empire",
+            "profession_inquisitorius",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "any_obtainable",
+            "selftag_fifthbrother",
+            "conq_hokey_religion"
+        ]
+    },
+    "HANSOLO": {
+        "nameKey": "Han Solo",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Daring Attacker that stacks Criticals in his favor and always shoots first",
+        "baseId": "HANSOLO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "affiliation_rebels",
+            "profession_scoundrel",
+            "specialmission_legendarylight",
+            "selftag_hansolo",
+            "any_obtainable",
+            "platoon_legendary_light",
+            "profession_smuggler",
+            "affiliation_rebfalconcrew",
+            "affiliation_smuggled",
+            "affiliation_sabacc",
+            "gac_rebelpilot",
+            "gac_shotfirst",
+            "gac_revenge",
+            "gac_alltooeasy",
+            "conq_trustenemies"
+        ]
+    },
+    "GREEFKARGA": {
+        "nameKey": "Greef Karga",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Bounty Hunter Support that provides recovery and assist calls",
+        "baseId": "GREEFKARGA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "any_obtainable",
+            "selftag_greefkarga",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "specialmission_bountyhunter",
+            "gac_theguild",
+            "gac_daringplan"
+        ]
+    },
+    "TUSKENSHAMAN": {
+        "nameKey": "Tusken Shaman",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Healer that can also boost Offense and rapidly stack Damage Over Time effects",
+        "baseId": "TUSKENSHAMAN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_healer",
+            "species_tusken",
+            "selftag_tuskenshaman",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "KYLOREN": {
+        "nameKey": "Kylo Ren",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile First Order attacker that can reuse special attacks when damaged",
+        "baseId": "KYLOREN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "species_human",
+            "affiliation_firstorder",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "selftag_kyloren",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_kylos",
+            "gac_tiepilot",
+            "conq_hokey_religion"
+        ]
+    },
+    "GREEDO": {
+        "nameKey": "Greedo",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Deadly Attacker that gains extra attacks from Critical Hits",
+        "baseId": "GREEDO",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "selftag_greedo",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "non_viable_leader",
+            "gac_shotfirst",
+            "gac_revenge"
+        ]
+    },
+    "JEDIKNIGHTREVAN": {
+        "nameKey": "Jedi Knight Revan",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Fabled Jedi leader who controls the battle with a wide mix of powerful abilities",
+        "baseId": "JEDIKNIGHTREVAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "profession_jedi",
+            "affiliation_oldrepublic",
+            "selftag_jediknightrevan",
+            "any_obtainable",
+            "platoon_legendary_restricted",
+            "gac_oldrep",
+            "turn_meter_blocking_leader",
+            "conq_hokey_religion",
+            "conq_poweroftheforce"
+        ]
+    },
+    "SLAVE1": {
+        "nameKey": "Slave I",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Deadly Bounty Hunter Attacker that inflicts and exploits Target Lock for high area-of-effect damage",
+        "baseId": "SLAVE1",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "territory_ship_platoon",
+            "selftag_slave1",
+            "profession_bountyhunter",
+            "profession_scoundrel",
+            "any_obtainable",
+            "shipclass_cargoship",
+            "gac_floataway",
+            "gac_wantthemalive"
+        ]
+    },
+    "EZRABRIDGERS3": {
+        "nameKey": "Ezra Bridger",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Phoenix Attacker that can perform a variety of effects based on the Roles of allies",
+        "baseId": "EZRABRIDGERS3",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "profession_jedi",
+            "affiliation_phoenix",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_ezrabridgers3",
+            "any_obtainable",
+            "gac_alliancejedi",
+            "gac_thecovenssecrets",
+            "gac_holocron",
+            "conq_hokey_religion"
+        ]
+    },
+    "C3POCHEWBACCA": {
+        "nameKey": "Threepio & Chewie",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Attacker duo that can distract their enemies with Blind and deal significant damage to all enemies in multi-encounter battles",
+        "baseId": "C3POCHEWBACCA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "species_droid",
+            "affiliation_rebels",
+            "species_wookiee",
+            "selftag_c3pochewbacca",
+            "any_obtainable",
+            "gc_light_droid",
+            "gac_rebuilt",
+            "gac_loyaldroid",
+            "gac_rebeldroid",
+            "gac_r2c3",
+            "gac_alltooeasy"
+        ]
+    },
+    "RANGETROOPER": {
+        "nameKey": "Range Trooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Empire Support that provides other Imperial Trooper allies with Assist chance",
+        "baseId": "RANGETROOPER",
+        "categoryIdList": [
+            "selftag_rangetrooper",
+            "role_support",
+            "alignment_dark",
+            "affiliation_empire",
+            "affiliation_imperialtrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_impstormtroopers"
+        ]
+    },
+    "WEDGEANTILLES": {
+        "nameKey": "Wedge Antilles",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Attacker with a strong offensive opening",
+        "baseId": "WEDGEANTILLES",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "specialmission_corerebels",
+            "selftag_wedgeantilles",
+            "any_obtainable",
+            "gac_rebelpilot",
+            "gac_wingmate",
+            "gac_trench",
+            "gac_hothvet",
+            "gac_rogue"
+        ]
+    },
+    "BADBATCHTECH": {
+        "nameKey": "Tech",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Stealthy support character that gives Translation to other Clone Troopers and applies Target Lock to enemies.",
+        "baseId": "BADBATCHTECH",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "any_obtainable",
+            "affiliation_badbatch",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "profession_translator",
+            "selftag_badbatchtech",
+            "territory_geonosis_republic",
+            "gac_riskymission"
+        ]
+    },
+    "BISTAN": {
+        "nameKey": "Bistan",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Wild Rebel Attacker who gains Frenzy, debuffs enemies, and removes Turn Meter",
+        "baseId": "BISTAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_bistan",
+            "any_obtainable"
+        ]
+    },
+    "IG11": {
+        "nameKey": "IG-11",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Versatile Healer with strong Scoundrel and Droid synergies",
+        "baseId": "IG11",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "any_obtainable",
+            "selftag_ig11",
+            "species_droid",
+            "profession_scoundrel",
+            "gc_light_droid",
+            "gac_rebuilt",
+            "gac_loyaldroid",
+            "gac_daringplan",
+            "gac_spoken"
+        ]
+    },
+    "FIRSTORDEREXECUTIONER": {
+        "nameKey": "First Order Executioner",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Merciless First Order Attacker who executes powerful attacks",
+        "baseId": "FIRSTORDEREXECUTIONER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "selftag_firstorderexecutioner",
+            "affiliation_firstorder",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "affiliation_fomilitary",
+            "affiliation_foexecutionsquad",
+            "gac_fostormtrooper"
+        ]
+    },
+    "THEMANDALORIAN": {
+        "nameKey": "The Mandalorian",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Powerful Mandalorian bounty hunter who relies on critical hits to overwhelm his enemies",
+        "baseId": "THEMANDALORIAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "affiliation_mandalorian",
+            "profession_scoundrel",
+            "any_obtainable",
+            "selftag_themandalorian",
+            "gac_theguild",
+            "gac_identity",
+            "gac_theway",
+            "gac_foundlings"
+        ]
+    },
+    "DASHRENDAR": {
+        "nameKey": "Dash Rendar",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Charismatic Scoundrel Leader who gives Scoundrel allies Prepared",
+        "baseId": "DASHRENDAR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "profession_scoundrel",
+            "profession_smuggler",
+            "selftag_dashrendar",
+            "any_obtainable"
+        ]
+    },
+    "DARTHTALON": {
+        "nameKey": "Darth Talon",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Nimble Sith attacker whose loyalty and lethality is without question",
+        "baseId": "DARTHTALON",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "profession_sith",
+            "selftag_darthtalon",
+            "any_obtainable",
+            "conq_galacticemperor"
+        ]
+    },
+    "COMMANDSHUTTLE": {
+        "nameKey": "Kylo Ren's Command Shuttle",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Durable First Order Support with unparalleled ability to manipulate allied Turn Meter",
+        "baseId": "COMMANDSHUTTLE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "affiliation_firstorder",
+            "selftag_commandshuttle",
+            "any_obtainable",
+            "territory_ship_platoon",
+            "territory_rare_ship_platoon"
+        ]
+    },
+    "HOTHLEIA": {
+        "nameKey": "Rebel Officer Leia Organa",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Tenacious Rebel Attacker that counters debuffs and is more effective against healthy targets",
+        "baseId": "HOTHLEIA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "affiliation_rebels",
+            "territory_hoth",
+            "selftag_hothleia",
+            "any_obtainable",
+            "territory_hoth_hero_rebel",
+            "territory_light_platoon",
+            "gac_millenniumco-pilot",
+            "gac_hothvet",
+            "gac_oldsmoothie",
+            "gac_hadnochoice",
+            "gac_rolochewie",
+            "gac_alltooeasy"
+        ]
+    },
+    "JANGOFETT": {
+        "nameKey": "Jango Fett",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Notorious Bounty Hunter that exploits debuffed foes and inflicts Burning",
+        "baseId": "JANGOFETT",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "profession_bountyhunter",
+            "affiliation_mandalorian",
+            "profession_scoundrel",
+            "any_obtainable",
+            "specialmission_bountyhunter",
+            "selftag_jangofett",
+            "affiliation_separatist",
+            "gac_justajob",
+            "gac_jangoclone",
+            "gac_revenge",
+            "gac_identity",
+            "gac_foundlings",
+            "conq_likemyfather"
+        ]
+    },
+    "GRIEVOUS": {
+        "nameKey": "General Grievous",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Attacker that grows increasingly stronger as the Droids around him fall. Although he hates being called a droid, he counts as one in combat.",
+        "baseId": "GRIEVOUS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "species_droid",
+            "selftag_grievous",
+            "any_obtainable",
+            "affiliation_separatist",
+            "affiliation_separatist_droid",
+            "platoon_legendary_dark",
+            "territory_dark_platoon",
+            "territory_geonosis_separatist",
+            "character_fleetcommander",
+            "gac_droidpilot",
+            "gac_sepondathomir"
+        ]
+    },
+    "JAWAENGINEER": {
+        "nameKey": "Jawa Engineer",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "High-speed Jawa Healer with a Critical Chance buff and both Jawa and Droid synergy",
+        "baseId": "JAWAENGINEER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_healer",
+            "territory_light_platoon",
+            "species_jawa",
+            "selftag_jawaengineer",
+            "any_obtainable"
+        ]
+    },
+    "TUSKENRAIDER": {
+        "nameKey": "Tusken Raider",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Durable Attacker with Tusken Synergy and a strong Assist attack",
+        "baseId": "TUSKENRAIDER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "longitudinally_implemented",
+            "species_tusken",
+            "selftag_tuskenraider",
+            "any_obtainable",
+            "territory_dark_platoon"
+        ]
+    },
+    "CAPITALEXECUTOR": {
+        "nameKey": "Executor",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Empire Capital Ship with strong Bounty Hunter synergy.",
+        "baseId": "CAPITALEXECUTOR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_capital",
+            "affiliation_empire",
+            "any_obtainable",
+            "shipclass_capitalship",
+            "selftag_capitalexecutor",
+            "territory_dark_platoon",
+            "exclude_from_tb_mission"
+        ]
+    },
+    "JEDISTARFIGHTERAHSOKATANO": {
+        "nameKey": "Ahsoka Tano's Jedi Starfighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Versatile Jedi Attacker that uses dispels and buffs to adapt to the battle",
+        "baseId": "JEDISTARFIGHTERAHSOKATANO",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_ship_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_jedistarfighterahsokatano",
+            "any_obtainable"
+        ]
+    },
+    "SITHTROOPER": {
+        "nameKey": "Sith Empire Trooper",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Sith Tank who Taunts and ignores enemy Protection",
+        "baseId": "SITHTROOPER",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "profession_sith",
+            "affiliation_sithempire",
+            "selftag_sithtrooper",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "conq_hokey_religion"
+        ]
+    },
+    "FULCRUMAHSOKA": {
+        "nameKey": "Ahsoka Tano (Fulcrum)",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Enduring Rebel Attacker who shrugs off debuffs and consumes buffs to deal extra damage",
+        "baseId": "FULCRUMAHSOKA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "unaligned_force_user",
+            "ls_unaligned_force_user",
+            "selftag_fulcrumahsoka",
+            "any_obtainable",
+            "gac_foretold",
+            "gac_master",
+            "gac_holocron",
+            "conq_hokey_religion"
+        ]
+    },
+    "CHOPPERS3": {
+        "nameKey": "Chopper",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Surly Phoenix Support who Taunts and Dispels, and can recover Phoenix cooldowns",
+        "baseId": "CHOPPERS3",
+        "categoryIdList": [
+            "alignment_light",
+            "selftag_choppers3",
+            "role_support",
+            "territory_light_platoon",
+            "species_droid",
+            "affiliation_phoenix",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "any_obtainable",
+            "gac_droidpilot",
+            "gac_rebelpilot",
+            "gc_light_droid",
+            "gac_loyaldroid",
+            "gac_rebeldroid",
+            "gac_holocron"
+        ]
+    },
+    "GRANDMASTERYODA": {
+        "nameKey": "Grand Master Yoda",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Masterful Jedi support that can replicate enemy buffs and share them with allies",
+        "baseId": "GRANDMASTERYODA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "profession_jedi",
+            "affiliation_republic",
+            "specialmission_legendarylight",
+            "selftag_grandmasteryoda",
+            "any_obtainable",
+            "platoon_legendary_light",
+            "affiliation_galactic_republic_jedi",
+            "territory_geonosis_republic",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "conq_hokey_religion"
+        ]
+    },
+    "DARTHTRAYA": {
+        "nameKey": "Darth Traya",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Sith support who punishes enemies for relying on others",
+        "baseId": "DARTHTRAYA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "profession_sith",
+            "selftag_darthtraya",
+            "any_obtainable",
+            "affiliation_sithlord",
+            "conq_hokey_religion"
+        ]
+    },
+    "SUPREMELEADERKYLOREN": {
+        "nameKey": "Supreme Leader Kylo Ren",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Destructive Leader of the First Order who overpowers his enemies with brutal attacks",
+        "baseId": "SUPREMELEADERKYLOREN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "affiliation_firstorder",
+            "galactic_legend",
+            "any_obtainable",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "selftag_supremeleaderkyloren",
+            "reduced_massive_damage",
+            "gac_tiepilot",
+            "conq_hokey_religion"
+        ]
+    },
+    "MARAJADE": {
+        "nameKey": "Mara Jade, The Emperor's Hand",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Dark Side force user Attacker who uses her allies to boost her own power and supports Emperor Palpatine",
+        "baseId": "MARAJADE",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "any_obtainable",
+            "selftag_marajade",
+            "affiliation_empire",
+            "unaligned_force_user",
+            "ds_unaligned_force_user"
+        ]
+    },
+    "CARTHONASI": {
+        "nameKey": "Carth Onasi",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Old Republic soldier that excels at clearing waves of enemies",
+        "baseId": "CARTHONASI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "any_obtainable",
+            "territory_light_platoon",
+            "selftag_carthonasi",
+            "affiliation_oldrepublic"
+        ]
+    },
+    "KYLORENUNMASKED": {
+        "nameKey": "Kylo Ren (Unmasked)",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Tough First Order Tank with a powerful Stun",
+        "baseId": "KYLORENUNMASKED",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "role_leader",
+            "species_human",
+            "affiliation_firstorder",
+            "unaligned_force_user",
+            "ds_unaligned_force_user",
+            "selftag_kylorenunmasked",
+            "any_obtainable",
+            "platoon_legendary_restricted",
+            "territory_dark_platoon",
+            "affiliation_kylos",
+            "gac_tiepilot",
+            "conq_hokey_religion"
+        ]
+    },
+    "JEDIKNIGHTGUARDIAN": {
+        "nameKey": "Jedi Knight Guardian",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Tenacious Jedi tank with crippling debuffs and natural recovery at low Health",
+        "baseId": "JEDIKNIGHTGUARDIAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "longitudinally_implemented",
+            "selftag_jediknightguardian",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "affiliation_doubleblade",
+            "conq_hokey_religion",
+            "conq_jedipath"
+        ]
+    },
+    "DARTHMALGUS": {
+        "nameKey": "Darth Malgus",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Legendary Sith Lord who causes doubt among his foes and heralds the return of the Sith Empire",
+        "baseId": "DARTHMALGUS",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_tank",
+            "any_obtainable",
+            "selftag_darthmalgus",
+            "role_leader",
+            "profession_sith",
+            "affiliation_sithempire"
+        ]
+    },
+    "HERMITYODA": {
+        "nameKey": "Hermit Yoda",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Jedi recluse who imparts sage wisdom in the ways of the Force",
+        "baseId": "HERMITYODA",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "profession_jedi",
+            "selftag_hermityoda",
+            "any_obtainable",
+            "platoon_legendary_light",
+            "platoon_legendary_restricted",
+            "category_pacifist",
+            "gac_hodacls",
+            "conq_hokey_religion"
+        ]
+    },
+    "HK47": {
+        "nameKey": "HK-47",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Offensive Attacker with powerful Darth Revan synergy",
+        "baseId": "HK47",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_attacker",
+            "role_leader",
+            "species_droid",
+            "selftag_hk47",
+            "affiliation_sithempire",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "specialmission_bountyhunter",
+            "gac_rebuilt",
+            "gac_loyaldroid",
+            "gac_hkt3"
+        ]
+    },
+    "GRANDADMIRALTHRAWN": {
+        "nameKey": "Grand Admiral Thrawn",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Calculating Empire Leader who can halt enemies in their tracks, and grants Empire allies a new Special ability",
+        "baseId": "GRANDADMIRALTHRAWN",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "role_leader",
+            "affiliation_empire",
+            "selftag_grandadmiralthrawn",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "platoon_legendary_dark",
+            "character_fleetcommander",
+            "gac_master"
+        ]
+    },
+    "EETHKOTH": {
+        "nameKey": "Eeth Koth",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Stunning Jedi Support extremely effective against Droids",
+        "baseId": "EETHKOTH",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "territory_light_platoon",
+            "affiliation_republic",
+            "profession_jedi",
+            "selftag_eethkoth",
+            "any_obtainable",
+            "affiliation_galactic_republic_jedi",
+            "non_viable_leader",
+            "gac_forcefully",
+            "gac_jedigenerals",
+            "gac_jedicouncil",
+            "conq_hokey_religion"
+        ]
+    },
+    "TALIA": {
+        "nameKey": "Talia",
+        "forceAlignment": "DARK",
+        "combatType": "CHARACTER",
+        "descKey": "Aggressive Healer that sacrifices Health so allies can recover Health and Turn Meter",
+        "baseId": "TALIA",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_healer",
+            "role_leader",
+            "affiliation_nightsisters",
+            "selftag_talia",
+            "any_obtainable",
+            "territory_dark_platoon",
+            "gac_dathomirnative",
+            "conq_swordofajuntapall"
+        ]
+    },
+    "JUHANI": {
+        "nameKey": "Juhani",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Unique Jedi Tank who dispels debuffs from Old Republic allies and becomes more dangerous below full Health",
+        "baseId": "JUHANI",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_light_platoon",
+            "profession_jedi",
+            "affiliation_oldrepublic",
+            "any_obtainable",
+            "selftag_juhani",
+            "gac_oldrep",
+            "conq_hokey_religion"
+        ]
+    },
+    "CT5555": {
+        "nameKey": "CT-5555 \"Fives\"",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Tank with high Defense, enemy Speed reduction, and team-wide stat bonuses",
+        "baseId": "CT5555",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "role_leader",
+            "affiliation_501st",
+            "affiliation_501st_visible",
+            "territory_light_platoon",
+            "species_human",
+            "profession_clonetrooper",
+            "affiliation_republic",
+            "selftag_ct5555",
+            "affiliation_501st_clone",
+            "any_obtainable",
+            "territory_geonosis_republic",
+            "gac_experience"
+        ]
+    },
+    "SITHINFILTRATOR": {
+        "nameKey": "Scimitar",
+        "forceAlignment": "DARK",
+        "combatType": "SHIP",
+        "descKey": "Deadly Sith Support that can Stealth allies to set up devastating attacks",
+        "baseId": "SITHINFILTRATOR",
+        "categoryIdList": [
+            "alignment_dark",
+            "role_support",
+            "territory_ship_platoon",
+            "selftag_sithinfiltrator",
+            "any_obtainable",
+            "profession_sith"
+        ]
+    },
+    "CASSIANANDOR": {
+        "nameKey": "Cassian Andor",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Rebel Support who buffs allies at the start of battle and debuffs enemies during battle",
+        "baseId": "CASSIANANDOR",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "territory_light_platoon",
+            "affiliation_rebels",
+            "affiliation_rebelfighter",
+            "affiliation_rogue_one",
+            "specialmission_rogueone",
+            "specialmission_corerebels",
+            "selftag_cassianandor",
+            "any_obtainable",
+            "gac_rogueone"
+        ]
+    },
+    "LUKESKYWALKER": {
+        "nameKey": "Luke Skywalker (Farmboy)",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Attacker that can boost his own Critical Rate, then disable enemies with Critical Hits",
+        "baseId": "LUKESKYWALKER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_attacker",
+            "role_leader",
+            "territory_light_platoon",
+            "species_human",
+            "affiliation_rebels",
+            "specialmission_corerebels",
+            "selftag_lukeskywalker",
+            "any_obtainable",
+            "affiliation_smuggled",
+            "gac_rebelpilot",
+            "gac_trench",
+            "gac_tk421",
+            "non_viable_leader",
+            "gac_avengeus",
+            "gac_iamthemaster",
+            "conq_newhope"
+        ]
+    },
+    "BASTILASHAN": {
+        "nameKey": "Bastila Shan",
+        "forceAlignment": "LIGHT",
+        "combatType": "CHARACTER",
+        "descKey": "Strong Jedi Support that grants allies an overwhelming first turn with her Leader ability",
+        "baseId": "BASTILASHAN",
+        "categoryIdList": [
+            "alignment_light",
+            "role_support",
+            "role_leader",
+            "profession_jedi",
+            "affiliation_oldrepublic",
+            "selftag_bastilashan",
+            "any_obtainable",
+            "territory_light_platoon",
+            "affiliation_doubleblade",
+            "gac_oldrep",
+            "conq_hokey_religion",
+            "conq_poweroftheforce"
+        ]
+    },
+    "UMBARANSTARFIGHTER": {
+        "nameKey": "Umbaran Starfighter",
+        "forceAlignment": "LIGHT",
+        "combatType": "SHIP",
+        "descKey": "Risky Clone Tank that inflicts great damage and debuffs, but grants Turn Meter to enemies",
+        "baseId": "UMBARANSTARFIGHTER",
+        "categoryIdList": [
+            "alignment_light",
+            "role_tank",
+            "territory_ship_platoon",
+            "affiliation_republic",
+            "profession_clonetrooper",
+            "selftag_umbaranstarfighter",
+            "any_obtainable"
+        ]
+    }
+}
