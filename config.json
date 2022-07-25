@@ -4,5 +4,12 @@
       "username": "biscotty666",
       "userpass": "t0rti11aGG"
     },
-  "allycodes": "833756326"
+  "allycodes": "833756326",
+  "swgohhelp":
+    {
+      "credname" : "biscotty666",
+      "credpass" : "t0rti11aSWGOH",
+      "crednum" : "123",
+      "credlet" : "abc"
+    }
 }
