@@ -1,7 +1,8 @@
 from curses import echo
 from email.policy import default
+# from xmlrpc.client import Boolean
 from sqlalchemy.orm import declarative_base, sessionmaker
-from sqlalchemy import Column, String, Integer, DateTime, create_engine
+from sqlalchemy import Column, String, Integer, DateTime, Boolean, create_engine
 
 from datetime import datetime
 import os
@@ -98,4 +99,22 @@ class ModStat(Base):
   Value=Column(Integer())
   Roll=Column(Integer())
   StatType=Column(String())
+  
+class Gear(Base):
+  __tablename__ = 'player_gear'
+  Id=Column(Integer(), primary_key=True)
+  PlayerId=Column(String())
+  GearId=Column(String())
+  Slot=Column(Integer())
+  NameKey=Column(String())
+
+class Skill(Base):
+  __tablename__ = 'player_skills'
+  Id=Column(Integer(), primary_key=True)
+  PlayerId=Column(String())
+  SkillId=Column(String())
+  Tier=Column(Integer())
+  NameKey=Column(String())
+  IsZeta=Column(Boolean())
+  Tiers=Column(Integer())
   

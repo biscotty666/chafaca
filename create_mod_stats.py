@@ -22,7 +22,7 @@ for toon in roster:
     local_session.add(new_mod_stat)
     local_session.commit
 
-    for modstat in mod['secondaryStat']:
+    for modstat in mod['secondaryStat']:fit 
       new_mod_stat = ModStat(ModId = mod['id'],\
         UnitStat = modstat['unitStat'],\
         Value = modstat['value'],\
