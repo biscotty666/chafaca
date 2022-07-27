@@ -7,38 +7,69 @@ from pprint import pprint
 with open('./config.json') as f:
   config = json.load(f)
 
-# Make the connection
-# creds = settings(config['CredName'], config['CredPass'], config['CredNum'], config['CredLet'])
-creds = settings(config['swgohhelp']['credname'], config['swgohhelp']['credpass'], config['swgohhelp']['crednum'], config['swgohhelp']['credlet'])
-client = SWGOHhelp(creds)
+# Connect to swgohhelp
 
-import requests
+# Get swgohhelp guild data
+def ggd():
+  creds = settings(config['swgohhelp']['credname'], config['swgohhelp']['credpass'], config['swgohhelp']['crednum'], config['swgohhelp']['credlet'])
+  client = SWGOHhelp(creds)
 
-r = requests.get('https://swgoh-stat-calc.glitch.me/api/characters?flags=enums,gameStyle&useValues={char:{rarity:7,level:85,relic:5}}')
+  response = client.get_data('guild', config['allycodes'])
+  with open('guild.json', 'w') as f:
+    json.dump(response, f)
 
-content = r.content
-contentmod = content.decode('utf-8')
-contentjson = json.loads(contentmod)
+# Get swgohhelp player data
+def gpd():
+  creds = settings(config['swgohhelp']['credname'], config['swgohhelp']['credpass'], config['swgohhelp']['crednum'], config['swgohhelp']['credlet'])
+  client = SWGOHhelp(creds)
 
-# pprint(str(contentjson))
+  response = client.get_data('player', config['allycodes'])
+  with open('player.json', 'w') as f:
+    json.dump(response, f)
 
-with open('basestats.json', 'w') as f:
-  json.dump(contentjson, f)
+# Get base stat data from swgoh.gg
+def gbs():
+  import requests
 
-# import sqlite3
+  n = 1
+  # f = open('basestats.json', 'w')
+  # f.close()
+  f = open('test.json', 'w')
+  f.close()
 
-# conn = sqlite3.connect('chafaca.db')
-# c = conn.cursor()
+  url = 'https://swgoh-stat-calc.glitch.me/api/characters?flags=enums,gameStyle&useValues={char:{rarity:7,level:85,gear:12}}'
 
-# c.execute("insert into guild values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+  r = requests.get(url)
+  content = r.content
+  content = content.decode('utf-8')
+  content = json.loads(content)
+
+  with open(f'basestats12.json', 'w') as f:
+      json.dump(content, f)
+
+
+  while n<10:
+    url = 'https://swgoh-stat-calc.glitch.me/api/characters?flags=enums,gameStyle&useValues={char:{rarity:7,level:85,relic:'+str(n)+'}}'
+
+    r = requests.get(url)
+    print(r)
+    content = r.content
+    content = content.decode('utf-8')
+    content = json.loads(content)
+
+    with open(f'basestats{n}.json', 'w') as f:
+      json.dump(content, f)
+
+    n += 1
   
-# )
+  
 
-# response = client.get_data('guild', config['allycodes'])
-# with open('guild.json', 'w') as f:
-#   json.dump(response, f)
 
-# response = client.get_data('player', config['allycodes'])
-# with open('player.json', 'w') as f:
-#   json.dump(response, f)
 
+gbs()
+# import requests
+# r = requests.get('https://swgoh-stat-calc.glitch.me/api/characters?flags=enums,gameStyle&useValues={char:{rarity:7,level:85,relic:1}}')
+
+# print(r)
+  
+# gbs()

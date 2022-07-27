@@ -79,3 +79,23 @@ class Toon(Base):
         TimeStamp={self.TimeStamp}\
         >"
 
+class Mod(Base):
+  __tablename__ = 'toons_mods'
+  Id=Column(Integer(), primary_key=True)
+  ToonId=Column(String())
+  ModId=Column(String())
+  Level=Column(Integer())
+  Tier=Column(Integer())
+  Slot=Column(Integer())
+  Set=Column(Integer())
+  Pips=Column(Integer())
+
+class ModStat(Base):
+  __tablename__ = 'mod_stats'
+  Id=Column(Integer(), primary_key=True)
+  ModId=Column(String())
+  UnitStat=Column(Integer())
+  Value=Column(Integer())
+  Roll=Column(Integer())
+  StatType=Column(String())
+  

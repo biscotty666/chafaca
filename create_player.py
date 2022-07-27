@@ -1,4 +1,4 @@
-from sqlstuff import Player, Session, Base, engine
+from classdef import Player, Session, Base, engine
 import json
 from datetime import datetime
 
@@ -22,10 +22,6 @@ new_player = Player(PlayerId = config['id'],\
     GrandArenaLifeTime = config['grandArenaLifeTime'],\
     Updated = config['updated']
 )
-
-
-
-# new_player = Player(PlayerId=config['id'], Name=config['name']) 
 
 local_session.add(new_player)
 
