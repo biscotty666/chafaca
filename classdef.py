@@ -91,7 +91,7 @@ class Mod(Base):
   Pips=Column(Integer())
 
 class ModStat(Base):
-  __tablename__ = 'mod_stats'
+  __tablename__ = 'mods_stats'
   Id=Column(Integer(), primary_key=True)
   ModId=Column(String())
   UnitStat=Column(Integer())
